@@ -29,6 +29,13 @@
           "windDir": "N",
           "total": 50.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 12,
+          "windDir": "N",
+          "total": 50.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -59,6 +66,13 @@
           "windDir": "N",
           "total": 48.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 15,
+          "windDir": "N",
+          "total": 48.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -81,7 +95,7 @@
       "espnId": "401858468",
       "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-09-25/howa-rut",
       "firstSeen": "2026-09-23T02:03:07+00:00",
-      "openingTotal": null,
+      "openingTotal": 55.5,
       "readings": [
         {
           "at": "2026-09-23T02:17:09+00:00",
@@ -89,6 +103,13 @@
           "windDir": "N",
           "total": null,
           "book": null
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 15,
+          "windDir": "N",
+          "total": 55.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -119,6 +140,13 @@
           "windDir": "N",
           "total": 48.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 20,
+          "windDir": "N",
+          "total": 48.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -149,6 +177,13 @@
           "windDir": "SSW",
           "total": 55.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 10,
+          "windDir": "SSW",
+          "total": 55.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -179,6 +214,13 @@
           "windDir": "N",
           "total": 56.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 15,
+          "windDir": "N",
+          "total": 56.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -201,7 +243,7 @@
       "espnId": "401858237",
       "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-09-26/cent-fsu",
       "firstSeen": "2026-09-23T02:03:07+00:00",
-      "openingTotal": null,
+      "openingTotal": 59.5,
       "readings": [
         {
           "at": "2026-09-23T02:17:09+00:00",
@@ -209,6 +251,13 @@
           "windDir": "NNE",
           "total": null,
           "book": null
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 5,
+          "windDir": "NNE",
+          "total": 59.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -239,6 +288,13 @@
           "windDir": "W",
           "total": 44.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 20,
+          "windDir": "W",
+          "total": 44.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -269,6 +325,13 @@
           "windDir": "SSE",
           "total": 48.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 12,
+          "windDir": "SE",
+          "total": 48.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -299,6 +362,13 @@
           "windDir": "NNE",
           "total": 48.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 15,
+          "windDir": "NNE",
+          "total": 48.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -321,7 +391,7 @@
       "espnId": "401858244",
       "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-09-26/will-duke",
       "firstSeen": "2026-09-23T02:03:07+00:00",
-      "openingTotal": null,
+      "openingTotal": 60.5,
       "readings": [
         {
           "at": "2026-09-23T02:17:09+00:00",
@@ -329,6 +399,13 @@
           "windDir": "N",
           "total": null,
           "book": null
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 61.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -351,7 +428,7 @@
       "espnId": "401862781",
       "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-09-26/nort-ecu",
       "firstSeen": "2026-09-23T02:03:07+00:00",
-      "openingTotal": null,
+      "openingTotal": 54.5,
       "readings": [
         {
           "at": "2026-09-23T02:17:09+00:00",
@@ -359,6 +436,13 @@
           "windDir": "N",
           "total": null,
           "book": null
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 10,
+          "windDir": "NW",
+          "total": 54.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -389,6 +473,13 @@
           "windDir": "N",
           "total": 44.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 17,
+          "windDir": "NW",
+          "total": 44.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -419,6 +510,43 @@
           "windDir": "N",
           "total": 52.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 52.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401869931",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-26T23:00Z",
+      "homeTeam": "Arkansas State",
+      "awayTeam": "Kennesaw State",
+      "homeAbbr": "ARST",
+      "awayAbbr": "KENN",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Centennial Bank Stadium",
+      "espnId": "401869931",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-09-26/kenn-arst",
+      "firstSeen": "2026-09-23T15:20:31+00:00",
+      "openingTotal": 53.5,
+      "readings": [
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 10,
+          "windDir": "ENE",
+          "total": 52.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -449,6 +577,43 @@
           "windDir": "WSW",
           "total": 62.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 10,
+          "windDir": "WSW",
+          "total": 62.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858241",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-09-27T01:00Z",
+      "homeTeam": "SMU",
+      "awayTeam": "Missouri State",
+      "homeAbbr": "SMU",
+      "awayAbbr": "MOST",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Gerald J. Ford Stadium",
+      "espnId": "401858241",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-09-26/most-smu",
+      "firstSeen": "2026-09-23T15:20:31+00:00",
+      "openingTotal": 59.5,
+      "readings": [
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 10,
+          "windDir": "SSE",
+          "total": 59.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -479,6 +644,13 @@
           "windDir": null,
           "total": 39.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 16,
+          "windDir": null,
+          "total": 39.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -509,6 +681,103 @@
           "windDir": null,
           "total": 40.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 40.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872949",
+      "league": "NFL",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00Z",
+      "homeTeam": "Cleveland",
+      "awayTeam": "Carolina",
+      "homeAbbr": "CLE",
+      "awayAbbr": "CAR",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Huntington Bank Field",
+      "espnId": "401872949",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-car-cle",
+      "firstSeen": "2026-09-23T15:20:31+00:00",
+      "openingTotal": 39.5,
+      "readings": [
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 42.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872950",
+      "league": "NFL",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00Z",
+      "homeTeam": "Pittsburgh",
+      "awayTeam": "Cincinnati",
+      "homeAbbr": "PIT",
+      "awayAbbr": "CIN",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Acrisure Stadium",
+      "espnId": "401872950",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-cin-pit",
+      "firstSeen": "2026-09-23T15:20:31+00:00",
+      "openingTotal": 47.5,
+      "readings": [
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 42.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872960",
+      "league": "NFL",
+      "season": 2026,
+      "week": 3,
+      "kickoff": "2026-09-27T20:25Z",
+      "homeTeam": "Dallas",
+      "awayTeam": "Baltimore",
+      "homeAbbr": "DAL",
+      "awayAbbr": "BAL",
+      "neutralSite": true,
+      "dome": false,
+      "venue": "Maracan\u00e3 Stadium",
+      "espnId": "401872960",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-bal-dal",
+      "firstSeen": "2026-09-23T15:20:31+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-09-23T15:20:31+00:00",
+          "windMph": 11,
+          "windDir": null,
+          "total": 52.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -516,5 +785,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-09-23T02:17:11+00:00"
+  "updatedAt": "2026-09-23T15:20:33+00:00"
 }
