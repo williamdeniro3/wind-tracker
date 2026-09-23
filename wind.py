@@ -26,7 +26,7 @@ ET = ZoneInfo("America/New_York")
 
 CONFIG = {
     "windThresholdMph": 10,
-    "lineSource": "draftkings",  # ESPN's feed only carries DraftKings
+    "lineSource": "draftkings",  # preferred; each reading records the book actually used
     "juice": -110,
 }
 
@@ -140,27 +140,32 @@ def _line(s):
         return None
 
 
+def _prefer_dk(items):
+    """DraftKings first, then whatever else ESPN serves. ESPN can show a
+    different book depending on where the request comes from."""
+    return sorted(items, key=lambda o: "draftkings" not in o.get("provider", {}).get("name", "").lower())
+
+
 def espn_totals(comp):
-    """(opening, current) DraftKings total from a scoreboard competition."""
-    for o in comp.get("odds") or []:
-        if "draftkings" not in o.get("provider", {}).get("name", "").lower():
-            continue
+    """(opening, current, book) total from a scoreboard competition."""
+    for o in _prefer_dk(comp.get("odds") or []):
         over = (o.get("total") or {}).get("over") or {}
         opening = _line((over.get("open") or {}).get("line"))
         current = _line((over.get("close") or {}).get("line")) or o.get("overUnder")
-        return opening, current
-    return None, None
+        if current is not None:
+            return opening, current, o["provider"].get("name")
+    return None, None, None
 
 
 def closing_totals(league, event_id):
     """(opening, closing) DraftKings total for a finished game. The scoreboard
     drops odds once a game ends; the core odds endpoint keeps them."""
     d = json.loads(fetch(LEAGUES[league]["odds"].format(id=event_id)))
-    for o in d.get("items", []):
-        if "draftkings" not in o.get("provider", {}).get("name", "").lower():
-            continue
+    for o in _prefer_dk(d.get("items", [])):
         get = lambda k: _line(((o.get(k) or {}).get("total") or {}).get("american"))
-        return get("open"), get("close") or o.get("overUnder")
+        closing = get("close") or o.get("overUnder")
+        if closing is not None:
+            return get("open"), closing
     return None, None
 
 
@@ -228,8 +233,12 @@ def scout(db, only_date=None):
             comp = ev["competitions"][0]
             if ev["status"]["type"]["state"] != "pre":
                 continue  # started or finished; the forecast is no longer a forecast
-            opening, current = espn_totals(comp)
-            reading = {"at": now, "windMph": card["wind"], "windDir": card["dir"], "total": current}
+            opening, current, book = espn_totals(comp)
+            if current is None and comp.get("odds"):
+                print(f"  ? {league} {ev['name']}: odds present but no total "
+                      f"({[o.get('provider', {}).get('name') for o in comp['odds']]})", file=sys.stderr)
+            reading = {"at": now, "windMph": card["wind"], "windDir": card["dir"],
+                       "total": current, "book": book}
 
             game = by_id.get(gid)
             if game is None:
@@ -273,6 +282,8 @@ def scout(db, only_date=None):
             # One reading per ET day: a re-run the same morning replaces it.
             r = game["readings"]
             if r and et_day(r[-1]["at"]) == et_day(now):
+                if reading["total"] is None:  # never trade a real line for a blank
+                    reading["total"], reading["book"] = r[-1]["total"], r[-1].get("book")
                 r[-1] = reading
             else:
                 r.append(reading)
