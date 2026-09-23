@@ -24,10 +24,10 @@
       "openingTotal": 54.5,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 13,
           "windDir": "N",
-          "total": 50.5
+          "total": null
         }
       ],
       "closingTotal": null,
@@ -53,10 +53,10 @@
       "openingTotal": 49.5,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 10,
           "windDir": "N",
-          "total": 48.5
+          "total": null
         }
       ],
       "closingTotal": null,
@@ -82,7 +82,7 @@
       "openingTotal": null,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 10,
           "windDir": "N",
           "total": null
@@ -111,10 +111,10 @@
       "openingTotal": 54.5,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 18,
           "windDir": "N",
-          "total": 48.5
+          "total": null
         }
       ],
       "closingTotal": null,
@@ -140,10 +140,10 @@
       "openingTotal": 54.5,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 10,
           "windDir": "SSW",
-          "total": 55.5
+          "total": null
         }
       ],
       "closingTotal": null,
@@ -169,10 +169,10 @@
       "openingTotal": 51.5,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 15,
           "windDir": "N",
-          "total": 56.5
+          "total": null
         }
       ],
       "closingTotal": null,
@@ -198,7 +198,7 @@
       "openingTotal": null,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 10,
           "windDir": "NNE",
           "total": null
@@ -227,10 +227,10 @@
       "openingTotal": 44.5,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 15,
           "windDir": "W",
-          "total": 44.5
+          "total": null
         }
       ],
       "closingTotal": null,
@@ -256,10 +256,10 @@
       "openingTotal": 49.5,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 13,
           "windDir": "SSE",
-          "total": 48.5
+          "total": null
         }
       ],
       "closingTotal": null,
@@ -285,10 +285,10 @@
       "openingTotal": 50.5,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 15,
           "windDir": "NNE",
-          "total": 48.5
+          "total": null
         }
       ],
       "closingTotal": null,
@@ -314,7 +314,7 @@
       "openingTotal": null,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 10,
           "windDir": "N",
           "total": null
@@ -343,7 +343,7 @@
       "openingTotal": null,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 12,
           "windDir": "N",
           "total": null
@@ -372,10 +372,10 @@
       "openingTotal": 50.5,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 16,
           "windDir": "N",
-          "total": 44.5
+          "total": null
         }
       ],
       "closingTotal": null,
@@ -401,10 +401,10 @@
       "openingTotal": 54.5,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 10,
           "windDir": "N",
-          "total": 52.5
+          "total": null
         }
       ],
       "closingTotal": null,
@@ -430,10 +430,10 @@
       "openingTotal": 58.5,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 10,
           "windDir": "WSW",
-          "total": 62.5
+          "total": null
         }
       ],
       "closingTotal": null,
@@ -459,10 +459,10 @@
       "openingTotal": 45.5,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 14,
           "windDir": null,
-          "total": 39.5
+          "total": null
         }
       ],
       "closingTotal": null,
@@ -488,10 +488,10 @@
       "openingTotal": 46.5,
       "readings": [
         {
-          "at": "2026-09-23T02:03:13+00:00",
+          "at": "2026-09-23T02:09:56+00:00",
           "windMph": 14,
           "windDir": null,
-          "total": 40.5
+          "total": null
         }
       ],
       "closingTotal": null,
@@ -499,5 +499,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-09-23T02:03:19+00:00"
+  "updatedAt": "2026-09-23T02:09:58+00:00"
 }
