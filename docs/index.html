@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wind Tracker</title>
+<style>
+  :root {
+    --bg: #f6f7f9; --surface: #ffffff; --line: #e3e6eb; --text: #14181f; --muted: #5d6673;
+    --accent: #1f6feb; --win: #1a7f37; --win-bg: #dcfce7; --loss: #c62828; --loss-bg: #fde2e1;
+    --push-bg: #eceff3; --wind-hi: #b45309; --wind-hi-bg: #fef3c7;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0e1116; --surface: #161b22; --line: #2a313c; --text: #e6e9ee; --muted: #8b95a3;
+      --accent: #58a6ff; --win: #3fb950; --win-bg: #12321d; --loss: #f47067; --loss-bg: #3b1616;
+      --push-bg: #222a35; --wind-hi: #f0b429; --wind-hi-bg: #3a2b0a;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 14px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, sans-serif; }
+  main { max-width: 1180px; margin: 0 auto; padding: 20px 16px 60px; }
+  header { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 12px; }
+  h1 { margin: 0; font-size: 22px; letter-spacing: -0.01em; }
+  .sub { color: var(--muted); font-size: 12px; }
+  .tiles { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; margin: 18px 0; }
+  .tile { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; }
+  .tile b { display: block; font-size: 22px; font-variant-numeric: tabular-nums; }
+  .tile span { color: var(--muted); font-size: 12px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--surface); }
+  .seg button { border: 0; background: none; color: var(--muted); padding: 6px 12px; font: inherit; cursor: pointer; }
+  .seg button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+  h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted);
+       margin: 26px 0 10px; display: flex; gap: 8px; align-items: baseline; }
+  h2 small { text-transform: none; letter-spacing: 0; font-weight: 400; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 10px; }
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px;
+          display: grid; gap: 8px; }
+  .card .top { display: flex; justify-content: space-between; color: var(--muted); font-size: 12px; }
+  .card .teams { font-weight: 600; font-size: 15px; }
+  .card .teams .at { color: var(--muted); font-weight: 400; margin: 0 4px; }
+  .card .stats { display: flex; gap: 16px; font-variant-numeric: tabular-nums; }
+  .card .stats div span { display: block; color: var(--muted); font-size: 11px; }
+  .card .stats b { font-size: 16px; }
+  .wind { display: inline-block; padding: 1px 7px; border-radius: 6px; background: var(--push-bg); }
+  .wind.hi { background: var(--wind-hi-bg); color: var(--wind-hi); }
+  .trend { font-size: 12px; color: var(--muted); font-weight: 400; margin-left: 4px; }
+  .badge { font-size: 10px; border: 1px solid var(--line); border-radius: 4px; padding: 0 5px; margin-left: 6px;
+           color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+  .card a { color: var(--accent); font-size: 12px; text-decoration: none; }
+  .tablewrap { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+  table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  th, td { padding: 7px 10px; border-bottom: 1px solid var(--line); text-align: right; }
+  th { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; font-weight: 600;
+       position: sticky; top: 0; background: var(--surface); }
+  th.l, td.l { text-align: left; }
+  tr:last-child td { border-bottom: 0; }
+  .res { font-weight: 600; border-radius: 5px; padding: 1px 8px; }
+  .res.win { color: var(--win); background: var(--win-bg); }
+  .res.loss { color: var(--loss); background: var(--loss-bg); }
+  .res.push, .res.pending { color: var(--muted); background: var(--push-bg); font-weight: 400; }
+  .empty { color: var(--muted); padding: 14px; background: var(--surface); border: 1px dashed var(--line); border-radius: 10px; }
+  @media (max-width: 640px) { .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <div>
+      <h1>Wind Tracker</h1>
+      <div class="sub" id="updated"></div>
+    </div>
+    <div class="controls">
+      <div class="seg" id="league">
+        <button data-v="ALL" aria-pressed="true">All</button>
+        <button data-v="NCAAF" aria-pressed="false">NCAAF</button>
+        <button data-v="NFL" aria-pressed="false">NFL</button>
+      </div>
+    </div>
+  </header>
+
+  <section class="tiles" id="tiles"></section>
+
+  <h2>Yesterday <small id="ydate"></small></h2>
+  <div id="yesterday"></div>
+
+  <h2>Today <small id="tdate"></small></h2>
+  <div id="today"></div>
+
+  <h2>Upcoming</h2>
+  <div id="upcoming"></div>
+
+  <h2>All games <small>graded as the under vs. closing total, same as the sheet</small></h2>
+  <div class="tablewrap"><table id="table"></table></div>
+</main>
+
+<!-- cache-bust so a refresh always shows the latest run -->
+<script>document.write('<script src="data.js?t=' + Date.now() + '"><\/script>');</script>
+<script>
+(function () {
+  const data = window.WIND_DATA || { games: [], config: {} };
+  const juice = Math.abs(data.config.juice || -110) / 100;   // 1.1 units risked per 1 won
+  const hiWind = 15;
+  let league = "ALL";
+  try { league = localStorage.getItem("wt-league") || "ALL"; } catch (e) {}
+
+  const etDay = d => new Date(d).toLocaleDateString("en-CA", { timeZone: "America/New_York" });
+  const fmtDay = s => new Date(s + "T12:00:00").toLocaleDateString("en-US", { weekday: "short", month: "numeric", day: "numeric" });
+  const fmtTime = d => new Date(d).toLocaleTimeString("en-US", { timeZone: "America/New_York", hour: "numeric", minute: "2-digit" }) + " ET";
+  const num = v => v == null ? "—" : Number(v).toFixed(1);
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+  // Derive the sheet's orange columns from the raw record.
+  function derive(g) {
+    const r = g.readings || [];
+    const first = r[0] || {}, last = r[r.length - 1] || {};
+    const close = g.closingTotal != null ? g.closingTotal : last.total;
+    const out = {
+      windRan: first.windMph, windClose: last.windMph, totalRan: first.total, close,
+      movement: g.openingTotal != null && close != null ? g.openingTotal - close : null,
+      ran: first.at ? etDay(first.at) : null, day: etDay(g.kickoff),
+      margin: null, result: "pending",
+    };
+    if (g.score && close != null) {
+      out.points = g.score.home + g.score.away;
+      out.margin = close - out.points;
+      out.result = out.margin > 0 ? "win" : out.margin < 0 ? "loss" : "push";
+    }
+    return out;
+  }
+
+  const games = (data.games || []).map(g => Object.assign({}, g, { d: derive(g) }));
+  const today = etDay(new Date());
+  const yesterday = etDay(Date.now() - 864e5);
+
+  function windChip(mph) {
+    return `<span class="wind ${mph >= hiWind ? "hi" : ""}">${mph} MPH</span>`;
+  }
+  function teamLine(g) {
+    const n = g.neutralSite ? '<span class="badge">Neutral</span>' : "";
+    const dome = g.dome ? '<span class="badge">Dome</span>' : "";
+    return `${esc(g.awayTeam)}<span class="at">@</span>${esc(g.homeTeam)}${n}${dome}`;
+  }
+  function card(g) {
+    const d = g.d, r = g.readings;
+    const trend = r.length > 1 ? r[r.length - 1].windMph - r[0].windMph : 0;
+    const trendTxt = trend ? `<span class="trend">${trend > 0 ? "↑" : "↓"}${Math.abs(trend)} since ${fmtDay(d.ran)}</span>` : "";
+    const move = d.movement ? `<span class="trend">${d.movement > 0 ? "↓" : "↑"}${Math.abs(d.movement).toFixed(1)}</span>` : "";
+    const final = g.score
+      ? `<div><span>Final</span><b>${g.score.away}–${g.score.home}</b> <span class="res ${d.result}">${d.result} ${d.margin > 0 ? "+" : ""}${num(d.margin)}</span></div>`
+      : "";
+    return `<div class="card">
+      <div class="top"><span>${g.league} · Wk ${g.week ?? "?"}</span><span>${fmtDay(d.day)} ${fmtTime(g.kickoff)}</span></div>
+      <div class="teams">${teamLine(g)}</div>
+      <div class="stats">
+        <div><span>Wind</span><b>${windChip(d.windClose)}</b>${trendTxt}</div>
+        <div><span>Total</span><b>${num(d.close)}</b>${move}</div>
+        <div><span>Open</span><b>${num(g.openingTotal)}</b></div>
+        ${final}
+      </div>
+      ${g.weatherUrl ? `<a href="${esc(g.weatherUrl)}" target="_blank" rel="noopener">Forecast ↗</a>` : ""}
+    </div>`;
+  }
+  function cards(list, emptyMsg) {
+    return list.length ? `<div class="cards">${list.map(card).join("")}</div>` : `<div class="empty">${emptyMsg}</div>`;
+  }
+
+  function render() {
+    const gs = games.filter(g => league === "ALL" || g.league === league);
+    const graded = gs.filter(g => g.d.result !== "pending");
+    const w = graded.filter(g => g.d.result === "win").length;
+    const l = graded.filter(g => g.d.result === "loss").length;
+    const p = graded.filter(g => g.d.result === "push").length;
+    const units = w - juice * l;
+    document.getElementById("tiles").innerHTML = `
+      <div class="tile"><b>${w}–${l}${p ? "–" + p : ""}</b><span>Record (unders)</span></div>
+      <div class="tile"><b>${w + l ? (100 * w / (w + l)).toFixed(1) + "%" : "—"}</b><span>Win %</span></div>
+      <div class="tile"><b style="color:${units >= 0 ? "var(--win)" : "var(--loss)"}">${units >= 0 ? "+" : ""}${units.toFixed(2)}u</b><span>Profit at ${data.config.juice || -110}</span></div>
+      <div class="tile"><b>${gs.filter(g => !g.score).length}</b><span>Open games</span></div>`;
+
+    document.getElementById("ydate").textContent = fmtDay(yesterday);
+    document.getElementById("tdate").textContent = fmtDay(today);
+    document.getElementById("yesterday").innerHTML = cards(gs.filter(g => g.d.day === yesterday), "No tracked games yesterday.");
+    document.getElementById("today").innerHTML = cards(gs.filter(g => g.d.day === today), "No 10+ MPH games today.");
+    document.getElementById("upcoming").innerHTML = cards(gs.filter(g => g.d.day > today), "Nothing on the radar yet.");
+
+    const rows = gs.slice().reverse().map(g => {
+      const d = g.d, s = g.score || {};
+      return `<tr>
+        <td class="l">${g.league}</td><td class="l">${esc(g.homeTeam)}${g.neutralSite ? " (Neutral)" : ""}</td>
+        <td class="l">${esc(g.awayTeam)}</td><td>${g.week ?? ""}</td><td>${d.ran ? fmtDay(d.ran) : ""}</td>
+        <td>${d.windRan ?? ""}</td><td>${d.windClose ?? ""}</td>
+        <td>${num(d.totalRan)}</td><td>${num(g.openingTotal)}</td><td>${num(d.close)}</td>
+        <td>${d.movement == null ? "—" : num(d.movement)}</td>
+        <td>${s.home ?? ""}</td><td>${s.away ?? ""}</td>
+        <td><span class="res ${d.result}">${d.result}</span></td><td>${d.margin == null ? "" : num(d.margin)}</td>
+      </tr>`;
+    }).join("");
+    document.getElementById("table").innerHTML = `<thead><tr>
+      <th class="l">League</th><th class="l">Home</th><th class="l">Away</th><th>Wk</th><th>Ran</th>
+      <th>Wind ran</th><th>Wind close</th><th>Total ran</th><th>Open</th><th>Close</th><th>Move</th>
+      <th>Home</th><th>Away</th><th>Result</th><th>Margin</th></tr></thead><tbody>${rows}</tbody>`;
+  }
+
+  document.getElementById("updated").textContent = data.updatedAt
+    ? "Updated " + new Date(data.updatedAt).toLocaleString("en-US", { dateStyle: "medium", timeStyle: "short" })
+    : "No data yet: run python3 wind.py daily";
+  document.querySelectorAll("#league button").forEach(b => {
+    b.setAttribute("aria-pressed", b.dataset.v === league);
+    b.onclick = () => {
+      league = b.dataset.v;
+      try { localStorage.setItem("wt-league", league); } catch (e) {}
+      document.querySelectorAll("#league button").forEach(x => x.setAttribute("aria-pressed", x === b));
+      render();
+    };
+  });
+  render();
+})();
+</script>
+</body>
+</html>

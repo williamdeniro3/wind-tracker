@@ -1,0 +1,37 @@
+name: Daily wind run
+
+on:
+  schedule:
+    # GitHub cron is UTC only: 11:00 UTC = 7am Eastern during daylight time
+    # (Sep–early Nov), 6am once clocks fall back. Runs can start a bit late.
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Settle yesterday, scout upcoming
+        run: python3 wind.py daily
+
+      - name: Commit data
+        run: |
+          git config user.name "wind-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add games.json docs/data.js
+          git diff --cached --quiet && { echo "No changes."; exit 0; }
+          git commit -m "Daily run $(TZ=America/New_York date +%F)"
+          git push
