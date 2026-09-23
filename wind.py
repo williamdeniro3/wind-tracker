@@ -276,6 +276,8 @@ def scout(db, only_date=None):
                       f"{card['wind']} MPH  total {current} (open {opening})")
             else:
                 refreshed += 1
+                print(f"  ~ {league} {game['awayTeam']} @ {game['homeTeam']}  {card['wind']} MPH  "
+                      f"total {current if current is not None else 'none'} ({book or 'no odds from ESPN'})")
             game["kickoff"] = ev["date"]  # kickoff times get set/moved midweek
             if game["openingTotal"] is None:
                 game["openingTotal"] = opening
