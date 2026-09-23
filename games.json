@@ -24,7 +24,7 @@
       "openingTotal": 54.5,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 13,
           "windDir": "N",
           "total": 50.5,
@@ -54,7 +54,7 @@
       "openingTotal": 49.5,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 10,
           "windDir": "N",
           "total": 48.5,
@@ -84,7 +84,7 @@
       "openingTotal": null,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 10,
           "windDir": "N",
           "total": null,
@@ -114,7 +114,7 @@
       "openingTotal": 54.5,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 18,
           "windDir": "N",
           "total": 48.5,
@@ -144,7 +144,7 @@
       "openingTotal": 54.5,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 10,
           "windDir": "SSW",
           "total": 55.5,
@@ -174,7 +174,7 @@
       "openingTotal": 51.5,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 15,
           "windDir": "N",
           "total": 56.5,
@@ -204,7 +204,7 @@
       "openingTotal": null,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 10,
           "windDir": "NNE",
           "total": null,
@@ -234,7 +234,7 @@
       "openingTotal": 44.5,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 15,
           "windDir": "W",
           "total": 44.5,
@@ -264,7 +264,7 @@
       "openingTotal": 49.5,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 13,
           "windDir": "SSE",
           "total": 48.5,
@@ -294,7 +294,7 @@
       "openingTotal": 50.5,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 15,
           "windDir": "NNE",
           "total": 48.5,
@@ -324,7 +324,7 @@
       "openingTotal": null,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 10,
           "windDir": "N",
           "total": null,
@@ -354,7 +354,7 @@
       "openingTotal": null,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 12,
           "windDir": "N",
           "total": null,
@@ -384,7 +384,7 @@
       "openingTotal": 50.5,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 16,
           "windDir": "N",
           "total": 44.5,
@@ -414,7 +414,7 @@
       "openingTotal": 54.5,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 10,
           "windDir": "N",
           "total": 52.5,
@@ -444,7 +444,7 @@
       "openingTotal": 58.5,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 10,
           "windDir": "WSW",
           "total": 62.5,
@@ -474,7 +474,7 @@
       "openingTotal": 45.5,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 14,
           "windDir": null,
           "total": 39.5,
@@ -504,7 +504,7 @@
       "openingTotal": 46.5,
       "readings": [
         {
-          "at": "2026-09-23T02:13:59+00:00",
+          "at": "2026-09-23T02:17:09+00:00",
           "windMph": 14,
           "windDir": null,
           "total": 40.5,
@@ -516,5 +516,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-09-23T02:14:02+00:00"
+  "updatedAt": "2026-09-23T02:17:11+00:00"
 }
