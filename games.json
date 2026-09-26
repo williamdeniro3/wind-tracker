@@ -92,8 +92,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 48.5,
+      "score": {
+        "home": 17,
+        "away": 21
+      },
       "bet": null
     },
     {
@@ -136,8 +139,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 57.5,
+      "score": {
+        "home": 58,
+        "away": 7
+      },
       "bet": null
     },
     {
@@ -317,6 +323,13 @@
           "windDir": "N",
           "total": 62.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-26T14:54:23+00:00",
+          "windMph": 5,
+          "windDir": "N",
+          "total": 62.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -449,6 +462,13 @@
           "windDir": "NNE",
           "total": 48.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-26T14:54:23+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 48.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -498,6 +518,13 @@
           "at": "2026-09-25T15:44:57+00:00",
           "windMph": 8,
           "windDir": "NW",
+          "total": 62.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-26T14:54:23+00:00",
+          "windMph": 9,
+          "windDir": "N",
           "total": 62.5,
           "book": "Draft Kings"
         }
@@ -676,6 +703,13 @@
           "windDir": "NE",
           "total": 52.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-26T14:54:23+00:00",
+          "windMph": 10,
+          "windDir": "NE",
+          "total": 53.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -727,6 +761,13 @@
           "windDir": "WSW",
           "total": 61.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-26T14:54:23+00:00",
+          "windMph": 10,
+          "windDir": "WSW",
+          "total": 61.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -770,6 +811,13 @@
           "windMph": 5,
           "windDir": "SE",
           "total": 59.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-26T14:54:23+00:00",
+          "windMph": 10,
+          "windDir": "SE",
+          "total": 60.5,
           "book": "Draft Kings"
         }
       ],
@@ -822,6 +870,13 @@
           "windDir": null,
           "total": 38.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-26T14:54:23+00:00",
+          "windMph": 17,
+          "windDir": null,
+          "total": 37.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -873,6 +928,13 @@
           "windDir": null,
           "total": 40.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-26T14:54:23+00:00",
+          "windMph": 16,
+          "windDir": null,
+          "total": 40.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -914,6 +976,13 @@
         {
           "at": "2026-09-25T15:44:57+00:00",
           "windMph": 13,
+          "windDir": null,
+          "total": 42.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-26T14:54:23+00:00",
+          "windMph": 14,
           "windDir": null,
           "total": 42.5,
           "book": "Draft Kings"
@@ -961,6 +1030,13 @@
           "windDir": null,
           "total": 42.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-26T14:54:23+00:00",
+          "windMph": 16,
+          "windDir": null,
+          "total": 42.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1005,6 +1081,13 @@
           "windDir": null,
           "total": 53.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-26T14:54:23+00:00",
+          "windMph": 6,
+          "windDir": null,
+          "total": 53.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1042,6 +1125,13 @@
           "windDir": null,
           "total": 43.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-26T14:54:23+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 44.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1049,5 +1139,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-09-25T15:45:00+00:00"
+  "updatedAt": "2026-09-26T14:54:24+00:00"
 }
