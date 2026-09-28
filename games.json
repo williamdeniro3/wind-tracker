@@ -928,8 +928,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 37.5,
+      "score": {
+        "home": 12,
+        "away": 7
+      },
       "bet": null
     },
     {
@@ -993,8 +996,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 40.5,
+      "score": {
+        "home": 33,
+        "away": 31
+      },
       "bet": null
     },
     {
@@ -1051,8 +1057,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 41.5,
+      "score": {
+        "home": 21,
+        "away": 18
+      },
       "bet": null
     },
     {
@@ -1109,8 +1118,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 42.5,
+      "score": {
+        "home": 30,
+        "away": 27
+      },
       "bet": null
     },
     {
@@ -1139,8 +1151,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 50.5,
+      "score": {
+        "home": 24,
+        "away": 16
+      },
       "bet": null
     },
     {
@@ -1197,8 +1212,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 54.5,
+      "score": {
+        "home": 31,
+        "away": 34
+      },
       "bet": null
     },
     {
@@ -1248,8 +1266,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 44.5,
+      "score": {
+        "home": 30,
+        "away": 26
+      },
       "bet": null
     },
     {
@@ -1276,6 +1297,13 @@
           "windDir": "E",
           "total": 58.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-28T18:31:10+00:00",
+          "windMph": 5,
+          "windDir": "NE",
+          "total": 57.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -1306,6 +1334,43 @@
           "windDir": "ENE",
           "total": 48.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-28T18:31:10+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 45.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856819",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-03T16:00Z",
+      "homeTeam": "Houston",
+      "awayTeam": "UCF",
+      "homeAbbr": "HOU",
+      "awayAbbr": "UCF",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "TDECU Stadium",
+      "espnId": "401856819",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-03/ucf-hou",
+      "firstSeen": "2026-09-28T18:31:10+00:00",
+      "openingTotal": 51.5,
+      "readings": [
+        {
+          "at": "2026-09-28T18:31:10+00:00",
+          "windMph": 10,
+          "windDir": "NE",
+          "total": 51.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -1336,6 +1401,43 @@
           "windDir": "SE",
           "total": null,
           "book": null
+        },
+        {
+          "at": "2026-09-28T18:31:10+00:00",
+          "windMph": 10,
+          "windDir": "E",
+          "total": null,
+          "book": null
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858478",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-03T23:30Z",
+      "homeTeam": "USC",
+      "awayTeam": "Washington",
+      "homeAbbr": "USC",
+      "awayAbbr": "WASH",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Los Angeles Memorial Coliseum",
+      "espnId": "401858478",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-03/uw-usc",
+      "firstSeen": "2026-09-28T18:31:10+00:00",
+      "openingTotal": 57.5,
+      "readings": [
+        {
+          "at": "2026-09-28T18:31:10+00:00",
+          "windMph": 10,
+          "windDir": "WSW",
+          "total": 57.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -1358,7 +1460,7 @@
       "espnId": "401864513",
       "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-03/sjsu-haw",
       "firstSeen": "2026-09-27T15:32:51+00:00",
-      "openingTotal": null,
+      "openingTotal": 52.5,
       "readings": [
         {
           "at": "2026-09-27T15:32:51+00:00",
@@ -1366,6 +1468,13 @@
           "windDir": "ENE",
           "total": null,
           "book": null
+        },
+        {
+          "at": "2026-09-28T18:31:10+00:00",
+          "windMph": 2,
+          "windDir": "ENE",
+          "total": 51.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -1373,5 +1482,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-09-27T15:32:52+00:00"
+  "updatedAt": "2026-09-28T18:31:13+00:00"
 }
