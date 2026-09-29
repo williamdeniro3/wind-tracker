@@ -1304,6 +1304,13 @@
           "windDir": "NE",
           "total": 57.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-29T16:48:52+00:00",
+          "windMph": 5,
+          "windDir": "S",
+          "total": 57.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1371,6 +1378,13 @@
           "windDir": "NE",
           "total": 51.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-29T16:48:52+00:00",
+          "windMph": 10,
+          "windDir": "NE",
+          "total": 51.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1408,6 +1422,13 @@
           "windDir": "E",
           "total": null,
           "book": null
+        },
+        {
+          "at": "2026-09-29T16:48:52+00:00",
+          "windMph": 5,
+          "windDir": "S",
+          "total": null,
+          "book": null
         }
       ],
       "closingTotal": null,
@@ -1438,6 +1459,13 @@
           "windDir": "WSW",
           "total": 57.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-29T16:48:52+00:00",
+          "windMph": 10,
+          "windDir": "WSW",
+          "total": 58.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1475,6 +1503,43 @@
           "windDir": "ENE",
           "total": 51.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-29T16:48:52+00:00",
+          "windMph": 12,
+          "windDir": "ENE",
+          "total": 51.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872967",
+      "league": "NFL",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-10-04T17:00Z",
+      "homeTeam": "Houston",
+      "awayTeam": "Dallas",
+      "homeAbbr": "HOU",
+      "awayAbbr": "DAL",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Reliant Stadium",
+      "espnId": "401872967",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-dal-hou",
+      "firstSeen": "2026-09-29T16:48:52+00:00",
+      "openingTotal": 47.5,
+      "readings": [
+        {
+          "at": "2026-09-29T16:48:52+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 47.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1482,5 +1547,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-09-28T18:31:13+00:00"
+  "updatedAt": "2026-09-29T16:48:56+00:00"
 }
