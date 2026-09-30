@@ -1311,6 +1311,13 @@
           "windDir": "S",
           "total": 57.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-30T16:42:25+00:00",
+          "windMph": 5,
+          "windDir": "SE",
+          "total": 57.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1348,6 +1355,13 @@
           "windDir": "N",
           "total": 45.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-09-30T16:42:25+00:00",
+          "windMph": 10,
+          "windDir": "NNE",
+          "total": 45.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1381,6 +1395,13 @@
         },
         {
           "at": "2026-09-29T16:48:52+00:00",
+          "windMph": 10,
+          "windDir": "NE",
+          "total": 51.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-30T16:42:25+00:00",
           "windMph": 10,
           "windDir": "NE",
           "total": 51.5,
@@ -1427,6 +1448,13 @@
           "at": "2026-09-29T16:48:52+00:00",
           "windMph": 5,
           "windDir": "S",
+          "total": null,
+          "book": null
+        },
+        {
+          "at": "2026-09-30T16:42:25+00:00",
+          "windMph": 5,
+          "windDir": "SE",
           "total": null,
           "book": null
         }
@@ -1510,6 +1538,13 @@
           "windDir": "ENE",
           "total": 51.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-30T16:42:25+00:00",
+          "windMph": 14,
+          "windDir": "ENE",
+          "total": 51.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1540,6 +1575,13 @@
           "windDir": null,
           "total": 47.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-09-30T16:42:25+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 48.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1547,5 +1589,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-09-29T16:48:56+00:00"
+  "updatedAt": "2026-09-30T16:42:27+00:00"
 }
