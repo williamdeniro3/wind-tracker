@@ -1274,6 +1274,36 @@
       "bet": null
     },
     {
+      "id": "NFL-401872964",
+      "league": "NFL",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-10-02T00:15Z",
+      "homeTeam": "Cleveland",
+      "awayTeam": "Pittsburgh",
+      "homeAbbr": "CLE",
+      "awayAbbr": "PIT",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Huntington Bank Field",
+      "espnId": "401872964",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-pit-cle",
+      "firstSeen": "2026-10-01T17:17:26+00:00",
+      "openingTotal": 40.5,
+      "readings": [
+        {
+          "at": "2026-10-01T17:17:26+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 38.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
       "id": "NCAAF-401862786",
       "league": "NCAAF",
       "season": 2026,
@@ -1318,6 +1348,13 @@
           "windDir": "SE",
           "total": 57.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-01T17:17:26+00:00",
+          "windMph": 5,
+          "windDir": "SE",
+          "total": 56.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1360,6 +1397,13 @@
           "at": "2026-09-30T16:42:25+00:00",
           "windMph": 10,
           "windDir": "NNE",
+          "total": 45.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-01T17:17:26+00:00",
+          "windMph": 10,
+          "windDir": "N",
           "total": 45.5,
           "book": "Draft Kings"
         }
@@ -1406,6 +1450,13 @@
           "windDir": "NE",
           "total": 51.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-01T17:17:26+00:00",
+          "windMph": 10,
+          "windDir": "NE",
+          "total": 51.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1428,7 +1479,7 @@
       "espnId": "401862793",
       "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-03/samf-uab",
       "firstSeen": "2026-09-27T15:32:51+00:00",
-      "openingTotal": null,
+      "openingTotal": 50.5,
       "readings": [
         {
           "at": "2026-09-27T15:32:51+00:00",
@@ -1457,6 +1508,43 @@
           "windDir": "SE",
           "total": null,
           "book": null
+        },
+        {
+          "at": "2026-10-01T17:17:26+00:00",
+          "windMph": 5,
+          "windDir": "E",
+          "total": 51.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856711",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-03T23:00Z",
+      "homeTeam": "Texas A&M",
+      "awayTeam": "Arkansas",
+      "homeAbbr": "TA&M",
+      "awayAbbr": "ARK",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Kyle Field",
+      "espnId": "401856711",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-03/ark-tamu",
+      "firstSeen": "2026-10-01T17:17:26+00:00",
+      "openingTotal": 51.5,
+      "readings": [
+        {
+          "at": "2026-10-01T17:17:26+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 50.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1492,6 +1580,13 @@
           "at": "2026-09-29T16:48:52+00:00",
           "windMph": 10,
           "windDir": "WSW",
+          "total": 58.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-01T17:17:26+00:00",
+          "windMph": 5,
+          "windDir": "SW",
           "total": 58.5,
           "book": "Draft Kings"
         }
@@ -1545,6 +1640,13 @@
           "windDir": "ENE",
           "total": 51.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-01T17:17:26+00:00",
+          "windMph": 14,
+          "windDir": "NE",
+          "total": 51.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1582,6 +1684,13 @@
           "windDir": null,
           "total": 48.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-01T17:17:26+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 48.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1589,5 +1698,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-09-30T16:42:27+00:00"
+  "updatedAt": "2026-10-01T17:17:29+00:00"
 }
