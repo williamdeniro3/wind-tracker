@@ -1299,8 +1299,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 38.5,
+      "score": {
+        "home": 27,
+        "away": 24
+      },
       "bet": null
     },
     {
@@ -1357,8 +1360,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 56.5,
+      "score": {
+        "home": 44,
+        "away": 45
+      },
       "bet": null
     },
     {
@@ -1464,6 +1470,36 @@
       "bet": null
     },
     {
+      "id": "NCAAF-401858479",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-03T16:30Z",
+      "homeTeam": "Wisconsin",
+      "awayTeam": "Michigan State",
+      "homeAbbr": "WIS",
+      "awayAbbr": "MSU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Camp Randall Stadium",
+      "espnId": "401858479",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-03/msu-wis",
+      "firstSeen": "2026-10-02T16:31:58+00:00",
+      "openingTotal": 44.5,
+      "readings": [
+        {
+          "at": "2026-10-02T16:31:58+00:00",
+          "windMph": 10,
+          "windDir": "S",
+          "total": 43.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
       "id": "NCAAF-401862793",
       "league": "NCAAF",
       "season": 2026,
@@ -1514,6 +1550,13 @@
           "windMph": 5,
           "windDir": "E",
           "total": 51.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-02T16:31:58+00:00",
+          "windMph": 5,
+          "windDir": "SE",
+          "total": 52.5,
           "book": "Draft Kings"
         }
       ],
@@ -1587,6 +1630,13 @@
           "at": "2026-10-01T17:17:26+00:00",
           "windMph": 5,
           "windDir": "SW",
+          "total": 58.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-02T16:31:58+00:00",
+          "windMph": 5,
+          "windDir": "WSW",
           "total": 58.5,
           "book": "Draft Kings"
         }
@@ -1691,6 +1741,43 @@
           "windDir": null,
           "total": 48.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-02T16:31:58+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 48.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872972",
+      "league": "NFL",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-10-04T17:00Z",
+      "homeTeam": "Chicago",
+      "awayTeam": "New York Jets",
+      "homeAbbr": "CHI",
+      "awayAbbr": "NYJ",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Soldier Field",
+      "espnId": "401872972",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-nyj-chi",
+      "firstSeen": "2026-10-02T16:31:58+00:00",
+      "openingTotal": 45.5,
+      "readings": [
+        {
+          "at": "2026-10-02T16:31:58+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 43.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1698,5 +1785,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-01T17:17:29+00:00"
+  "updatedAt": "2026-10-02T16:32:00+00:00"
 }
