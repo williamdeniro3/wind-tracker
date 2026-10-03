@@ -1414,8 +1414,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 46.5,
+      "score": {
+        "home": 34,
+        "away": 13
+      },
       "bet": null
     },
     {
@@ -1558,6 +1561,13 @@
           "windDir": "SE",
           "total": 52.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-03T15:04:11+00:00",
+          "windMph": 5,
+          "windDir": "SE",
+          "total": 54.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1587,6 +1597,36 @@
           "windMph": 10,
           "windDir": "N",
           "total": 50.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401862788",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-03T23:00Z",
+      "homeTeam": "Rice",
+      "awayTeam": "UTSA",
+      "homeAbbr": "RICE",
+      "awayAbbr": "UTSA",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "First Community Stadium",
+      "espnId": "401862788",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-03/utsa-rice",
+      "firstSeen": "2026-10-03T15:04:11+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-10-03T15:04:11+00:00",
+          "windMph": 10,
+          "windDir": "NE",
+          "total": 55.5,
           "book": "Draft Kings"
         }
       ],
@@ -1635,6 +1675,13 @@
         },
         {
           "at": "2026-10-02T16:31:58+00:00",
+          "windMph": 5,
+          "windDir": "WSW",
+          "total": 58.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-03T15:04:11+00:00",
           "windMph": 5,
           "windDir": "WSW",
           "total": 58.5,
@@ -1748,6 +1795,13 @@
           "windDir": null,
           "total": 48.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-03T15:04:11+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 48.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1778,6 +1832,13 @@
           "windDir": null,
           "total": 43.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-03T15:04:11+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 43.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -1785,5 +1846,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-02T16:32:00+00:00"
+  "updatedAt": "2026-10-03T15:04:12+00:00"
 }
