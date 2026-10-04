@@ -1468,8 +1468,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 50.5,
+      "score": {
+        "home": 27,
+        "away": 17
+      },
       "bet": null
     },
     {
@@ -1498,8 +1501,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 43.5,
+      "score": {
+        "home": 31,
+        "away": 3
+      },
       "bet": null
     },
     {
@@ -1570,8 +1576,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 54.5,
+      "score": {
+        "home": 33,
+        "away": 14
+      },
       "bet": null
     },
     {
@@ -1600,8 +1609,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 51.5,
+      "score": {
+        "home": 34,
+        "away": 7
+      },
       "bet": null
     },
     {
@@ -1630,8 +1642,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 56.5,
+      "score": {
+        "home": 14,
+        "away": 16
+      },
       "bet": null
     },
     {
@@ -1688,8 +1703,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 58.5,
+      "score": {
+        "home": 25,
+        "away": 21
+      },
       "bet": null
     },
     {
@@ -1746,8 +1764,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 51.5,
+      "score": {
+        "home": 16,
+        "away": 20
+      },
       "bet": null
     },
     {
@@ -1802,6 +1823,13 @@
           "windDir": null,
           "total": 48.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-04T15:41:19+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 48.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -1839,6 +1867,163 @@
           "windDir": null,
           "total": 43.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-04T15:41:19+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 43.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872971",
+      "league": "NFL",
+      "season": 2026,
+      "week": 4,
+      "kickoff": "2026-10-04T17:00Z",
+      "homeTeam": "Buffalo",
+      "awayTeam": "New England",
+      "homeAbbr": "BUF",
+      "awayAbbr": "NE",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Highmark Stadium",
+      "espnId": "401872971",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-ne-buf",
+      "firstSeen": "2026-10-04T15:41:19+00:00",
+      "openingTotal": 49.5,
+      "readings": [
+        {
+          "at": "2026-10-04T15:41:19+00:00",
+          "windMph": 16,
+          "windDir": null,
+          "total": 49.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858482",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-10T16:30Z",
+      "homeTeam": "Northwestern",
+      "awayTeam": "Ball State",
+      "homeAbbr": "NU",
+      "awayAbbr": "BALL",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Ryan Field",
+      "espnId": "401858482",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-10/ball-nw",
+      "firstSeen": "2026-10-04T15:41:19+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-10-04T15:41:19+00:00",
+          "windMph": 10,
+          "windDir": "SE",
+          "total": 52.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401862797",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-10T20:00Z",
+      "homeTeam": "East Carolina",
+      "awayTeam": "Rice",
+      "homeAbbr": "ECU",
+      "awayAbbr": "RICE",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Dowdy-Ficklen Stadium",
+      "espnId": "401862797",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-10/rice-ecu",
+      "firstSeen": "2026-10-04T15:41:19+00:00",
+      "openingTotal": null,
+      "readings": [
+        {
+          "at": "2026-10-04T15:41:19+00:00",
+          "windMph": 12,
+          "windDir": "NE",
+          "total": null,
+          "book": null
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856713",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-10T20:15Z",
+      "homeTeam": "Arkansas",
+      "awayTeam": "Tennessee",
+      "homeAbbr": "ARK",
+      "awayAbbr": "TENN",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Donald W. Reynolds Razorback Stadium",
+      "espnId": "401856713",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-10/tenn-ark",
+      "firstSeen": "2026-10-04T15:41:19+00:00",
+      "openingTotal": null,
+      "readings": [
+        {
+          "at": "2026-10-04T15:41:19+00:00",
+          "windMph": 10,
+          "windDir": "SE",
+          "total": null,
+          "book": null
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401869965",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-10T23:30Z",
+      "homeTeam": "Louisiana Tech",
+      "awayTeam": "Louisiana",
+      "homeAbbr": "LT",
+      "awayAbbr": "UL",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Joe Aillet Stadium",
+      "espnId": "401869965",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-10/ull-lt",
+      "firstSeen": "2026-10-04T15:41:19+00:00",
+      "openingTotal": null,
+      "readings": [
+        {
+          "at": "2026-10-04T15:41:19+00:00",
+          "windMph": 15,
+          "windDir": "E",
+          "total": null,
+          "book": null
         }
       ],
       "closingTotal": null,
@@ -1846,5 +2031,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-03T15:04:12+00:00"
+  "updatedAt": "2026-10-04T15:41:20+00:00"
 }
