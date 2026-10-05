@@ -1832,8 +1832,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 48.5,
+      "score": {
+        "home": 30,
+        "away": 34
+      },
       "bet": null
     },
     {
@@ -1876,8 +1879,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 43.5,
+      "score": {
+        "home": 23,
+        "away": 12
+      },
       "bet": null
     },
     {
@@ -1906,8 +1912,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 49.5,
+      "score": {
+        "home": 26,
+        "away": 29
+      },
       "bet": null
     },
     {
@@ -1941,6 +1950,36 @@
       "bet": null
     },
     {
+      "id": "NCAAF-401856718",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-10T19:30Z",
+      "homeTeam": "Vanderbilt",
+      "awayTeam": "Ole Miss",
+      "homeAbbr": "VAN",
+      "awayAbbr": "MISS",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "FirstBank Stadium",
+      "espnId": "401856718",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-10/miss-van",
+      "firstSeen": "2026-10-05T19:31:59+00:00",
+      "openingTotal": 57.5,
+      "readings": [
+        {
+          "at": "2026-10-05T19:31:59+00:00",
+          "windMph": 10,
+          "windDir": "ESE",
+          "total": 58.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
       "id": "NCAAF-401862797",
       "league": "NCAAF",
       "season": 2026,
@@ -1956,7 +1995,7 @@
       "espnId": "401862797",
       "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-10/rice-ecu",
       "firstSeen": "2026-10-04T15:41:19+00:00",
-      "openingTotal": null,
+      "openingTotal": 50.5,
       "readings": [
         {
           "at": "2026-10-04T15:41:19+00:00",
@@ -1964,6 +2003,13 @@
           "windDir": "NE",
           "total": null,
           "book": null
+        },
+        {
+          "at": "2026-10-05T19:31:59+00:00",
+          "windMph": 10,
+          "windDir": "NE",
+          "total": 49.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2016,7 +2062,7 @@
       "espnId": "401869965",
       "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-10/ull-lt",
       "firstSeen": "2026-10-04T15:41:19+00:00",
-      "openingTotal": null,
+      "openingTotal": 50.5,
       "readings": [
         {
           "at": "2026-10-04T15:41:19+00:00",
@@ -2024,6 +2070,13 @@
           "windDir": "E",
           "total": null,
           "book": null
+        },
+        {
+          "at": "2026-10-05T19:31:59+00:00",
+          "windMph": 15,
+          "windDir": "E",
+          "total": 48.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2031,5 +2084,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-04T15:41:20+00:00"
+  "updatedAt": "2026-10-05T19:32:01+00:00"
 }
