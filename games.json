@@ -1920,6 +1920,36 @@
       "bet": null
     },
     {
+      "id": "NCAAF-401869933",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-08T23:30Z",
+      "homeTeam": "Arkansas State",
+      "awayTeam": "South Alabama",
+      "homeAbbr": "ARST",
+      "awayAbbr": "USA",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Centennial Bank Stadium",
+      "espnId": "401869933",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-08/usa-arst",
+      "firstSeen": "2026-10-06T17:03:43+00:00",
+      "openingTotal": 56.5,
+      "readings": [
+        {
+          "at": "2026-10-06T17:03:43+00:00",
+          "windMph": 10,
+          "windDir": "NE",
+          "total": 58.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
       "id": "NCAAF-401858482",
       "league": "NCAAF",
       "season": 2026,
@@ -2010,6 +2040,13 @@
           "windDir": "NE",
           "total": 49.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-06T17:03:43+00:00",
+          "windMph": 10,
+          "windDir": "E",
+          "total": 47.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2082,7 +2119,217 @@
       "closingTotal": null,
       "score": null,
       "bet": null
+    },
+    {
+      "id": "NFL-401872990",
+      "league": "NFL",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-11T17:00Z",
+      "homeTeam": "Green Bay",
+      "awayTeam": "Chicago",
+      "homeAbbr": "GB",
+      "awayAbbr": "CHI",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Lambeau Field",
+      "espnId": "401872990",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-chi-gb",
+      "firstSeen": "2026-10-06T17:03:43+00:00",
+      "openingTotal": 49.5,
+      "readings": [
+        {
+          "at": "2026-10-06T17:03:43+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 45.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872982",
+      "league": "NFL",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-11T17:00Z",
+      "homeTeam": "Miami",
+      "awayTeam": "Cincinnati",
+      "homeAbbr": "MIA",
+      "awayAbbr": "CIN",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Hard Rock Stadium",
+      "espnId": "401872982",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-cin-mia",
+      "firstSeen": "2026-10-06T17:03:43+00:00",
+      "openingTotal": 48.5,
+      "readings": [
+        {
+          "at": "2026-10-06T17:03:43+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 42.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872984",
+      "league": "NFL",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-11T17:00Z",
+      "homeTeam": "Tennessee",
+      "awayTeam": "Houston",
+      "homeAbbr": "TEN",
+      "awayAbbr": "HOU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Nissan Stadium",
+      "espnId": "401872984",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-hou-ten",
+      "firstSeen": "2026-10-06T17:03:43+00:00",
+      "openingTotal": 43.5,
+      "readings": [
+        {
+          "at": "2026-10-06T17:03:43+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 38.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872989",
+      "league": "NFL",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-11T20:05Z",
+      "homeTeam": "Los Angeles Chargers",
+      "awayTeam": "Denver",
+      "homeAbbr": "LAC",
+      "awayAbbr": "DEN",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "SoFi Stadium",
+      "espnId": "401872989",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-den-lac",
+      "firstSeen": "2026-10-06T17:03:43+00:00",
+      "openingTotal": 44.5,
+      "readings": [
+        {
+          "at": "2026-10-06T17:03:43+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 42.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872991",
+      "league": "NFL",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-11T20:25Z",
+      "homeTeam": "Arizona",
+      "awayTeam": "Detroit",
+      "homeAbbr": "ARI",
+      "awayAbbr": "DET",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "State Farm Stadium",
+      "espnId": "401872991",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-det-ari",
+      "firstSeen": "2026-10-06T17:03:43+00:00",
+      "openingTotal": 49.5,
+      "readings": [
+        {
+          "at": "2026-10-06T17:03:43+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 54.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872993",
+      "league": "NFL",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-12T00:20Z",
+      "homeTeam": "Atlanta",
+      "awayTeam": "Baltimore",
+      "homeAbbr": "ATL",
+      "awayAbbr": "BAL",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Mercedes-Benz Stadium",
+      "espnId": "401872993",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-bal-atl",
+      "firstSeen": "2026-10-06T17:03:43+00:00",
+      "openingTotal": 48.5,
+      "readings": [
+        {
+          "at": "2026-10-06T17:03:43+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 43.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872994",
+      "league": "NFL",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-13T00:15Z",
+      "homeTeam": "Los Angeles Rams",
+      "awayTeam": "Buffalo",
+      "homeAbbr": "LAR",
+      "awayAbbr": "BUF",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "SoFi Stadium",
+      "espnId": "401872994",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-buf-lar",
+      "firstSeen": "2026-10-06T17:03:43+00:00",
+      "openingTotal": 53.5,
+      "readings": [
+        {
+          "at": "2026-10-06T17:03:43+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 54.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
     }
   ],
-  "updatedAt": "2026-10-05T19:32:01+00:00"
+  "updatedAt": "2026-10-06T17:03:48+00:00"
 }
