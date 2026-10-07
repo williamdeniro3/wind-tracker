@@ -1943,6 +1943,13 @@
           "windDir": "NE",
           "total": 58.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-07T17:41:27+00:00",
+          "windMph": 10,
+          "windDir": "NE",
+          "total": 58.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2047,6 +2054,13 @@
           "windDir": "E",
           "total": 47.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-07T17:41:27+00:00",
+          "windMph": 9,
+          "windDir": "E",
+          "total": 47.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2077,6 +2091,36 @@
           "windDir": "SE",
           "total": null,
           "book": null
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856715",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-10T23:00Z",
+      "homeTeam": "Kentucky",
+      "awayTeam": "LSU",
+      "homeAbbr": "UK",
+      "awayAbbr": "LSU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Kroger Field",
+      "espnId": "401856715",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-10/lsu-uk",
+      "firstSeen": "2026-10-07T17:41:27+00:00",
+      "openingTotal": 49.5,
+      "readings": [
+        {
+          "at": "2026-10-07T17:41:27+00:00",
+          "windMph": 10,
+          "windDir": "SE",
+          "total": 51.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2144,6 +2188,13 @@
           "windDir": null,
           "total": 45.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-07T17:41:27+00:00",
+          "windMph": 9,
+          "windDir": null,
+          "total": 45.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2171,6 +2222,13 @@
         {
           "at": "2026-10-06T17:03:43+00:00",
           "windMph": 12,
+          "windDir": null,
+          "total": 42.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-07T17:41:27+00:00",
+          "windMph": 13,
           "windDir": null,
           "total": 42.5,
           "book": "DraftKings"
@@ -2204,6 +2262,43 @@
           "windDir": null,
           "total": 38.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-07T17:41:27+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 37.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872985",
+      "league": "NFL",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-11T17:00Z",
+      "homeTeam": "Pittsburgh",
+      "awayTeam": "Indianapolis",
+      "homeAbbr": "PIT",
+      "awayAbbr": "IND",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Acrisure Stadium",
+      "espnId": "401872985",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-ind-pit",
+      "firstSeen": "2026-10-07T17:41:27+00:00",
+      "openingTotal": 47.5,
+      "readings": [
+        {
+          "at": "2026-10-07T17:41:27+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 44.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2234,6 +2329,13 @@
           "windDir": null,
           "total": 42.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-07T17:41:27+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 42.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2260,6 +2362,13 @@
       "readings": [
         {
           "at": "2026-10-06T17:03:43+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 54.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-07T17:41:27+00:00",
           "windMph": 15,
           "windDir": null,
           "total": 54.5,
@@ -2294,6 +2403,13 @@
           "windDir": null,
           "total": 43.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-07T17:41:27+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 43.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2324,6 +2440,43 @@
           "windDir": null,
           "total": 54.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-07T17:41:27+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 54.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401871067",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-13T23:00Z",
+      "homeTeam": "Middle Tennessee",
+      "awayTeam": "Delaware",
+      "homeAbbr": "MTSU",
+      "awayAbbr": "DEL",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Johnny \"Red\" Floyd Stadium",
+      "espnId": "401871067",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-13/del-mtsu",
+      "firstSeen": "2026-10-07T17:41:27+00:00",
+      "openingTotal": null,
+      "readings": [
+        {
+          "at": "2026-10-07T17:41:27+00:00",
+          "windMph": 10,
+          "windDir": "WSW",
+          "total": null,
+          "book": null
         }
       ],
       "closingTotal": null,
@@ -2331,5 +2484,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-06T17:03:48+00:00"
+  "updatedAt": "2026-10-07T17:41:29+00:00"
 }
