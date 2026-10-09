@@ -1959,8 +1959,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 60.5,
+      "score": {
+        "home": 49,
+        "away": 56
+      },
       "bet": null
     },
     {
@@ -2105,6 +2108,13 @@
           "windDir": "SE",
           "total": 51.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-09T17:21:44+00:00",
+          "windMph": 5,
+          "windDir": "S",
+          "total": 51.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2209,6 +2219,36 @@
       "bet": null
     },
     {
+      "id": "NCAAF-401864516",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-10T23:30Z",
+      "homeTeam": "Northern Illinois",
+      "awayTeam": "Air Force",
+      "homeAbbr": "NIU",
+      "awayAbbr": "AFA",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Huskie Stadium",
+      "espnId": "401864516",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-10/af-niu",
+      "firstSeen": "2026-10-09T17:21:44+00:00",
+      "openingTotal": 47.5,
+      "readings": [
+        {
+          "at": "2026-10-09T17:21:44+00:00",
+          "windMph": 10,
+          "windDir": "SE",
+          "total": 46.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
       "id": "NFL-401872990",
       "league": "NFL",
       "season": 2026,
@@ -2243,6 +2283,13 @@
         {
           "at": "2026-10-08T17:45:58+00:00",
           "windMph": 8,
+          "windDir": null,
+          "total": 45.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-09T17:21:44+00:00",
+          "windMph": 7,
           "windDir": null,
           "total": 45.5,
           "book": "DraftKings"
@@ -2290,6 +2337,13 @@
           "windDir": null,
           "total": 42.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-09T17:21:44+00:00",
+          "windMph": 9,
+          "windDir": null,
+          "total": 43.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2334,6 +2388,13 @@
           "windDir": null,
           "total": 38.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-09T17:21:44+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 37.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2370,6 +2431,73 @@
           "windMph": 12,
           "windDir": null,
           "total": 44.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-09T17:21:44+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 43.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872983",
+      "league": "NFL",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-11T17:00Z",
+      "homeTeam": "New York Jets",
+      "awayTeam": "Cleveland",
+      "homeAbbr": "NYJ",
+      "awayAbbr": "CLE",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "MetLife Stadium",
+      "espnId": "401872983",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-cle-nyj",
+      "firstSeen": "2026-10-09T17:21:44+00:00",
+      "openingTotal": 38.5,
+      "readings": [
+        {
+          "at": "2026-10-09T17:21:44+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 39.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872988",
+      "league": "NFL",
+      "season": 2026,
+      "week": 5,
+      "kickoff": "2026-10-11T17:00Z",
+      "homeTeam": "Washington",
+      "awayTeam": "New York Giants",
+      "homeAbbr": "WSH",
+      "awayAbbr": "NYG",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Northwest Stadium",
+      "espnId": "401872988",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-nyg-was",
+      "firstSeen": "2026-10-09T17:21:44+00:00",
+      "openingTotal": 48.5,
+      "readings": [
+        {
+          "at": "2026-10-09T17:21:44+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 41.5,
           "book": "DraftKings"
         }
       ],
@@ -2411,6 +2539,13 @@
         },
         {
           "at": "2026-10-08T17:45:58+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 41.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-09T17:21:44+00:00",
           "windMph": 15,
           "windDir": null,
           "total": 41.5,
@@ -2459,6 +2594,13 @@
           "windDir": null,
           "total": 54.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-09T17:21:44+00:00",
+          "windMph": 20,
+          "windDir": null,
+          "total": 54.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2499,6 +2641,13 @@
         },
         {
           "at": "2026-10-08T17:45:58+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 43.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-09T17:21:44+00:00",
           "windMph": 10,
           "windDir": null,
           "total": 43.5,
@@ -2547,6 +2696,13 @@
           "windDir": null,
           "total": 54.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-09T17:21:44+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 54.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2584,6 +2740,13 @@
           "windDir": "WNW",
           "total": null,
           "book": null
+        },
+        {
+          "at": "2026-10-09T17:21:44+00:00",
+          "windMph": 15,
+          "windDir": "WNW",
+          "total": null,
+          "book": null
         }
       ],
       "closingTotal": null,
@@ -2591,5 +2754,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-08T17:46:00+00:00"
+  "updatedAt": "2026-10-09T17:21:46+00:00"
 }
