@@ -1992,8 +1992,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 53.5,
+      "score": {
+        "home": 45,
+        "away": 14
+      },
       "bet": null
     },
     {
@@ -2022,8 +2025,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 54.5,
+      "score": {
+        "home": 17,
+        "away": 52
+      },
       "bet": null
     },
     {
@@ -2073,8 +2079,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 46.5,
+      "score": {
+        "home": 28,
+        "away": 12
+      },
       "bet": null
     },
     {
@@ -2124,8 +2133,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 51.5,
+      "score": {
+        "home": 17,
+        "away": 24
+      },
       "bet": null
     },
     {
@@ -2154,8 +2166,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 50.5,
+      "score": {
+        "home": 35,
+        "away": 34
+      },
       "bet": null
     },
     {
@@ -2184,8 +2199,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 48.5,
+      "score": {
+        "home": 13,
+        "away": 30
+      },
       "bet": null
     },
     {
@@ -2228,8 +2246,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 48.5,
+      "score": {
+        "home": 32,
+        "away": 31
+      },
       "bet": null
     },
     {
@@ -2258,8 +2279,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 48.5,
+      "score": {
+        "home": 7,
+        "away": 28
+      },
       "bet": null
     },
     {
@@ -2314,6 +2338,13 @@
           "windDir": null,
           "total": 46.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-11T16:34:34+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 46.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2372,6 +2403,13 @@
           "windDir": null,
           "total": 43.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-11T16:34:34+00:00",
+          "windMph": 9,
+          "windDir": null,
+          "total": 44.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2430,6 +2468,13 @@
           "windDir": null,
           "total": 38.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-11T16:34:34+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 37.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2481,6 +2526,13 @@
           "windDir": null,
           "total": 43.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-11T16:34:34+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 41.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2518,6 +2570,13 @@
           "windDir": null,
           "total": 39.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-11T16:34:34+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 38.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2555,6 +2614,13 @@
           "windDir": null,
           "total": 41.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-11T16:34:34+00:00",
+          "windMph": 14,
+          "windDir": null,
+          "total": 41.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2613,6 +2679,13 @@
           "windDir": null,
           "total": 41.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-11T16:34:34+00:00",
+          "windMph": 20,
+          "windDir": null,
+          "total": 41.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2671,6 +2744,13 @@
           "windDir": null,
           "total": 54.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-11T16:34:34+00:00",
+          "windMph": 20,
+          "windDir": null,
+          "total": 54.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2729,6 +2809,13 @@
           "windDir": null,
           "total": 43.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-11T16:34:34+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 43.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2787,6 +2874,13 @@
           "windDir": null,
           "total": 54.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-11T16:34:34+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 54.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2838,6 +2932,43 @@
           "windDir": "WNW",
           "total": 48.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-11T16:34:34+00:00",
+          "windMph": 10,
+          "windDir": "SSW",
+          "total": 48.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858493",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-17T00:00Z",
+      "homeTeam": "Purdue",
+      "awayTeam": "Washington",
+      "homeAbbr": "PUR",
+      "awayAbbr": "WASH",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Ross-Ade Stadium",
+      "espnId": "401858493",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-16/uw-pur",
+      "firstSeen": "2026-10-11T16:34:34+00:00",
+      "openingTotal": 51.5,
+      "readings": [
+        {
+          "at": "2026-10-11T16:34:34+00:00",
+          "windMph": 20,
+          "windDir": "NW",
+          "total": 51.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -2845,5 +2976,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-10T16:07:42+00:00"
+  "updatedAt": "2026-10-11T16:34:35+00:00"
 }
