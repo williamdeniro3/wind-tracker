@@ -2978,6 +2978,39 @@
           "book": "Draft Kings"
         }
       ],
+      "closingTotal": 49.5,
+      "score": {
+        "home": 33,
+        "away": 30
+      },
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401871068",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-15T00:00Z",
+      "homeTeam": "Sam Houston",
+      "awayTeam": "Western Kentucky",
+      "homeAbbr": "SHSU",
+      "awayAbbr": "WKU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Elliott T. Bowers Stadium",
+      "espnId": "401871068",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-14/wku-shsu",
+      "firstSeen": "2026-10-14T15:43:44+00:00",
+      "openingTotal": 51.5,
+      "readings": [
+        {
+          "at": "2026-10-14T15:43:44+00:00",
+          "windMph": 10,
+          "windDir": "SE",
+          "total": 53.5,
+          "book": "Draft Kings"
+        }
+      ],
       "closingTotal": null,
       "score": null,
       "bet": null
@@ -3003,6 +3036,13 @@
         {
           "at": "2026-10-13T17:59:51+00:00",
           "windMph": 10,
+          "windDir": null,
+          "total": 40.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-14T15:43:44+00:00",
+          "windMph": 8,
           "windDir": null,
           "total": 40.5,
           "book": "Draft Kings"
@@ -3066,6 +3106,73 @@
           "windDir": "NE",
           "total": 51.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-14T15:43:44+00:00",
+          "windMph": 15,
+          "windDir": "NE",
+          "total": 51.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856721",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-17T19:30Z",
+      "homeTeam": "Ole Miss",
+      "awayTeam": "Missouri",
+      "homeAbbr": "MISS",
+      "awayAbbr": "MIZ",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Vaught-Hemingway Stadium",
+      "espnId": "401856721",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-17/mizz-miss",
+      "firstSeen": "2026-10-14T15:43:44+00:00",
+      "openingTotal": 57.5,
+      "readings": [
+        {
+          "at": "2026-10-14T15:43:44+00:00",
+          "windMph": 15,
+          "windDir": "NNE",
+          "total": 59.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856832",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-17T23:00Z",
+      "homeTeam": "Baylor",
+      "awayTeam": "TCU",
+      "homeAbbr": "BAY",
+      "awayAbbr": "TCU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "McLane Stadium",
+      "espnId": "401856832",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-17/tcu-bay",
+      "firstSeen": "2026-10-14T15:43:44+00:00",
+      "openingTotal": 51.5,
+      "readings": [
+        {
+          "at": "2026-10-14T15:43:44+00:00",
+          "windMph": 10,
+          "windDir": "NNE",
+          "total": 48.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3096,6 +3203,43 @@
           "windDir": "NE",
           "total": 62.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-14T15:43:44+00:00",
+          "windMph": 5,
+          "windDir": "N",
+          "total": 62.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401872996",
+      "league": "NFL",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-18T13:30Z",
+      "homeTeam": "Jacksonville",
+      "awayTeam": "Houston",
+      "homeAbbr": "JAX",
+      "awayAbbr": "HOU",
+      "neutralSite": true,
+      "dome": false,
+      "venue": "Wembley Stadium",
+      "espnId": "401872996",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-hou-jax",
+      "firstSeen": "2026-10-14T15:43:44+00:00",
+      "openingTotal": 41.5,
+      "readings": [
+        {
+          "at": "2026-10-14T15:43:44+00:00",
+          "windMph": 11,
+          "windDir": null,
+          "total": 42.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3122,6 +3266,13 @@
       "readings": [
         {
           "at": "2026-10-13T17:59:51+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 49.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-14T15:43:44+00:00",
           "windMph": 15,
           "windDir": null,
           "total": 49.5,
@@ -3156,6 +3307,13 @@
           "windDir": null,
           "total": 41.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-14T15:43:44+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 42.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3182,6 +3340,13 @@
       "readings": [
         {
           "at": "2026-10-13T17:59:51+00:00",
+          "windMph": 18,
+          "windDir": null,
+          "total": 40.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-14T15:43:44+00:00",
           "windMph": 18,
           "windDir": null,
           "total": 40.5,
@@ -3216,6 +3381,13 @@
           "windDir": null,
           "total": 42.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-14T15:43:44+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 42.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3245,6 +3417,13 @@
           "windMph": 10,
           "windDir": null,
           "total": 52.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-14T15:43:44+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 53.5,
           "book": "Draft Kings"
         }
       ],
@@ -3276,6 +3455,13 @@
           "windDir": null,
           "total": 50.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-14T15:43:44+00:00",
+          "windMph": 14,
+          "windDir": null,
+          "total": 50.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3283,5 +3469,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-13T17:59:53+00:00"
+  "updatedAt": "2026-10-14T15:43:46+00:00"
 }
