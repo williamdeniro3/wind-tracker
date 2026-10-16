@@ -3058,8 +3058,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 40.5,
+      "score": {
+        "home": 17,
+        "away": 14
+      },
       "bet": null
     },
     {
@@ -3086,6 +3089,66 @@
           "windDir": "NW",
           "total": 51.5,
           "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858488",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-17T16:00Z",
+      "homeTeam": "Indiana",
+      "awayTeam": "Ohio State",
+      "homeAbbr": "IU",
+      "awayAbbr": "OSU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Memorial Stadium (Bloomington, IN)",
+      "espnId": "401858488",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-17/osu-ind",
+      "firstSeen": "2026-10-16T15:16:46+00:00",
+      "openingTotal": 48.5,
+      "readings": [
+        {
+          "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 10,
+          "windDir": "NNE",
+          "total": 50.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856725",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-17T17:00Z",
+      "homeTeam": "Texas A&M",
+      "awayTeam": "The Citadel",
+      "homeAbbr": "TA&M",
+      "awayAbbr": "CIT",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Kyle Field",
+      "espnId": "401856725",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-17/the--tamu",
+      "firstSeen": "2026-10-16T15:16:46+00:00",
+      "openingTotal": 56.5,
+      "readings": [
+        {
+          "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 15,
+          "windDir": "N",
+          "total": 55.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3152,6 +3215,66 @@
           "windMph": 15,
           "windDir": "NNE",
           "total": 59.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401864524",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-17T19:30Z",
+      "homeTeam": "Air Force",
+      "awayTeam": "UNLV",
+      "homeAbbr": "AFA",
+      "awayAbbr": "UNLV",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Falcon Stadium",
+      "espnId": "401864524",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-17/unlv-af",
+      "firstSeen": "2026-10-16T15:16:46+00:00",
+      "openingTotal": 48.5,
+      "readings": [
+        {
+          "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 10,
+          "windDir": "S",
+          "total": 47.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401862805",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-17T20:30Z",
+      "homeTeam": "Rice",
+      "awayTeam": "Tulsa",
+      "homeAbbr": "RICE",
+      "awayAbbr": "TLSA",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "First Community Stadium",
+      "espnId": "401862805",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-17/tlsa-rice",
+      "firstSeen": "2026-10-16T15:16:46+00:00",
+      "openingTotal": 46.5,
+      "readings": [
+        {
+          "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 46.5,
           "book": "Draft Kings"
         }
       ],
@@ -3234,6 +3357,13 @@
           "windDir": "N",
           "total": 62.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 62.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3271,6 +3401,13 @@
           "windDir": null,
           "total": 42.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 42.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3315,6 +3452,13 @@
           "windDir": null,
           "total": 51.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 51.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3359,6 +3503,13 @@
           "windDir": null,
           "total": 42.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 8,
+          "windDir": null,
+          "total": 40.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3403,6 +3554,43 @@
           "windDir": null,
           "total": 39.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 17,
+          "windDir": null,
+          "total": 39.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873004",
+      "league": "NFL",
+      "season": 2026,
+      "week": 6,
+      "kickoff": "2026-10-18T20:05Z",
+      "homeTeam": "Los Angeles Rams",
+      "awayTeam": "Arizona",
+      "homeAbbr": "LAR",
+      "awayAbbr": "ARI",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "SoFi Stadium",
+      "espnId": "401873004",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-ari-lar",
+      "firstSeen": "2026-10-16T15:16:46+00:00",
+      "openingTotal": 46.5,
+      "readings": [
+        {
+          "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 51.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3447,6 +3635,13 @@
           "windDir": null,
           "total": 42.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 41.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3488,6 +3683,13 @@
         {
           "at": "2026-10-15T15:31:01+00:00",
           "windMph": 10,
+          "windDir": null,
+          "total": 53.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 9,
           "windDir": null,
           "total": 53.5,
           "book": "DraftKings"
@@ -3535,6 +3737,13 @@
           "windDir": null,
           "total": 50.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 51.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3542,5 +3751,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-15T15:31:04+00:00"
+  "updatedAt": "2026-10-16T15:16:50+00:00"
 }
