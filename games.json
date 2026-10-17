@@ -3091,8 +3091,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 50.5,
+      "score": {
+        "home": 26,
+        "away": 38
+      },
       "bet": null
     },
     {
@@ -3118,6 +3121,43 @@
           "windMph": 10,
           "windDir": "NNE",
           "total": 50.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-17T14:05:21+00:00",
+          "windMph": 8,
+          "windDir": "NNE",
+          "total": 50.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858268",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-17T16:00Z",
+      "homeTeam": "SMU",
+      "awayTeam": "Virginia",
+      "homeAbbr": "SMU",
+      "awayAbbr": "UVA",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Gerald J. Ford Stadium",
+      "espnId": "401858268",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-17/uva-smu",
+      "firstSeen": "2026-10-17T14:05:21+00:00",
+      "openingTotal": 53.5,
+      "readings": [
+        {
+          "at": "2026-10-17T14:05:21+00:00",
+          "windMph": 10,
+          "windDir": "NNE",
+          "total": 51.5,
           "book": "Draft Kings"
         }
       ],
@@ -3148,6 +3188,36 @@
           "windMph": 15,
           "windDir": "N",
           "total": 55.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401866442",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-17T17:00Z",
+      "homeTeam": "Buffalo",
+      "awayTeam": "Massachusetts",
+      "homeAbbr": "BUFF",
+      "awayAbbr": "MASS",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Broadview Stadium",
+      "espnId": "401866442",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-17/mass-buff",
+      "firstSeen": "2026-10-17T14:05:21+00:00",
+      "openingTotal": 47.5,
+      "readings": [
+        {
+          "at": "2026-10-17T14:05:21+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 42.5,
           "book": "Draft Kings"
         }
       ],
@@ -3246,6 +3316,13 @@
           "windDir": "S",
           "total": 47.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-17T14:05:21+00:00",
+          "windMph": 10,
+          "windDir": "SSE",
+          "total": 47.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3313,6 +3390,13 @@
           "windDir": "NNE",
           "total": 48.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-17T14:05:21+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 49.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3364,6 +3448,43 @@
           "windDir": "N",
           "total": 62.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-17T14:05:21+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 62.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401864521",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-18T02:30Z",
+      "homeTeam": "Hawai'i",
+      "awayTeam": "New Mexico",
+      "homeAbbr": "HAW",
+      "awayAbbr": "UNM",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Clarence T.C. Ching Athletics Complex",
+      "espnId": "401864521",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-17/unm-haw",
+      "firstSeen": "2026-10-17T14:05:21+00:00",
+      "openingTotal": 48.5,
+      "readings": [
+        {
+          "at": "2026-10-17T14:05:21+00:00",
+          "windMph": 21,
+          "windDir": "ENE",
+          "total": 44.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3404,6 +3525,13 @@
         },
         {
           "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 42.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-17T14:05:21+00:00",
           "windMph": 13,
           "windDir": null,
           "total": 42.5,
@@ -3459,6 +3587,13 @@
           "windDir": null,
           "total": 51.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-17T14:05:21+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 52.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3509,6 +3644,13 @@
           "windMph": 8,
           "windDir": null,
           "total": 40.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-17T14:05:21+00:00",
+          "windMph": 8,
+          "windDir": null,
+          "total": 39.5,
           "book": "Draft Kings"
         }
       ],
@@ -3561,6 +3703,13 @@
           "windDir": null,
           "total": 39.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-17T14:05:21+00:00",
+          "windMph": 16,
+          "windDir": null,
+          "total": 38.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3588,6 +3737,13 @@
         {
           "at": "2026-10-16T15:16:46+00:00",
           "windMph": 10,
+          "windDir": null,
+          "total": 51.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-17T14:05:21+00:00",
+          "windMph": 2,
           "windDir": null,
           "total": 51.5,
           "book": "Draft Kings"
@@ -3638,6 +3794,13 @@
         },
         {
           "at": "2026-10-16T15:16:46+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 41.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-17T14:05:21+00:00",
           "windMph": 12,
           "windDir": null,
           "total": 41.5,
@@ -3693,6 +3856,13 @@
           "windDir": null,
           "total": 53.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-17T14:05:21+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 53.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -3744,6 +3914,43 @@
           "windDir": null,
           "total": 51.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-17T14:05:21+00:00",
+          "windMph": 14,
+          "windDir": null,
+          "total": 52.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401864525",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-10-24T01:00Z",
+      "homeTeam": "Wyoming",
+      "awayTeam": "Air Force",
+      "homeAbbr": "WYO",
+      "awayAbbr": "AFA",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "War Memorial Stadium",
+      "espnId": "401864525",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-23/af-wyo",
+      "firstSeen": "2026-10-17T14:05:21+00:00",
+      "openingTotal": null,
+      "readings": [
+        {
+          "at": "2026-10-17T14:05:21+00:00",
+          "windMph": 10,
+          "windDir": "SSW",
+          "total": null,
+          "book": null
         }
       ],
       "closingTotal": null,
@@ -3751,5 +3958,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-16T15:16:50+00:00"
+  "updatedAt": "2026-10-17T14:05:23+00:00"
 }
