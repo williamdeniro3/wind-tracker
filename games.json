@@ -3571,8 +3571,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 42.5,
+      "score": {
+        "home": 31,
+        "away": 34
+      },
       "bet": null
     },
     {
@@ -3636,8 +3639,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 50.5,
+      "score": {
+        "home": 23,
+        "away": 31
+      },
       "bet": null
     },
     {
@@ -3701,8 +3707,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 40.5,
+      "score": {
+        "home": 13,
+        "away": 10
+      },
       "bet": null
     },
     {
@@ -3766,8 +3775,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 37.5,
+      "score": {
+        "home": 19,
+        "away": 26
+      },
       "bet": null
     },
     {
@@ -3810,8 +3822,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 51.5,
+      "score": {
+        "home": 16,
+        "away": 18
+      },
       "bet": null
     },
     {
@@ -3875,8 +3890,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 41.5,
+      "score": {
+        "home": 22,
+        "away": 6
+      },
       "bet": null
     },
     {
@@ -3940,8 +3958,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 54.5,
+      "score": {
+        "home": 23,
+        "away": 13
+      },
       "bet": null
     },
     {
@@ -4003,6 +4024,43 @@
           "windDir": null,
           "total": 52.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-19T17:21:30+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 51.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401871069",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-10-20T23:00Z",
+      "homeTeam": "Delaware",
+      "awayTeam": "Missouri State",
+      "homeAbbr": "DEL",
+      "awayAbbr": "MOST",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Delaware Stadium",
+      "espnId": "401871069",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-20/most-del",
+      "firstSeen": "2026-10-19T17:21:30+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-10-19T17:21:30+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 52.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4039,6 +4097,66 @@
           "windMph": 15,
           "windDir": "WNW",
           "total": 43.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858498",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-10-24T16:00Z",
+      "homeTeam": "Northwestern",
+      "awayTeam": "Rutgers",
+      "homeAbbr": "NU",
+      "awayAbbr": "RUTG",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Ryan Field",
+      "espnId": "401858498",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-24/rut-nw",
+      "firstSeen": "2026-10-19T17:21:30+00:00",
+      "openingTotal": 58.5,
+      "readings": [
+        {
+          "at": "2026-10-19T17:21:30+00:00",
+          "windMph": 10,
+          "windDir": "S",
+          "total": 58.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858270",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-10-24T16:00Z",
+      "homeTeam": "SMU",
+      "awayTeam": "California",
+      "homeAbbr": "SMU",
+      "awayAbbr": "CAL",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Gerald J. Ford Stadium",
+      "espnId": "401858270",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-24/cal-smu",
+      "firstSeen": "2026-10-19T17:21:30+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-10-19T17:21:30+00:00",
+          "windMph": 10,
+          "windDir": "SSE",
+          "total": 53.5,
           "book": "DraftKings"
         }
       ],
@@ -4092,7 +4210,7 @@
       "espnId": "401862810",
       "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-24/unt-navy",
       "firstSeen": "2026-10-18T14:19:54+00:00",
-      "openingTotal": null,
+      "openingTotal": 61.5,
       "readings": [
         {
           "at": "2026-10-18T14:19:54+00:00",
@@ -4100,6 +4218,73 @@
           "windDir": "NE",
           "total": null,
           "book": null
+        },
+        {
+          "at": "2026-10-19T17:21:30+00:00",
+          "windMph": 7,
+          "windDir": "NE",
+          "total": 61.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856727",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-10-24T19:30Z",
+      "homeTeam": "Alabama",
+      "awayTeam": "Texas A&M",
+      "homeAbbr": "ALA",
+      "awayAbbr": "TA&M",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Bryant-Denny Stadium",
+      "espnId": "401856727",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-24/tamu-bama",
+      "firstSeen": "2026-10-19T17:21:30+00:00",
+      "openingTotal": 54.5,
+      "readings": [
+        {
+          "at": "2026-10-19T17:21:30+00:00",
+          "windMph": 10,
+          "windDir": "E",
+          "total": 50.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401871093",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-10-24T21:00Z",
+      "homeTeam": "Louisiana Tech",
+      "awayTeam": "Old Dominion",
+      "homeAbbr": "LT",
+      "awayAbbr": "ODU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Joe Aillet Stadium",
+      "espnId": "401871093",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-24/odu-lt",
+      "firstSeen": "2026-10-19T17:21:30+00:00",
+      "openingTotal": 44.5,
+      "readings": [
+        {
+          "at": "2026-10-19T17:21:30+00:00",
+          "windMph": 10,
+          "windDir": "E",
+          "total": 46.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4137,5 +4322,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-18T14:19:55+00:00"
+  "updatedAt": "2026-10-19T17:21:31+00:00"
 }
