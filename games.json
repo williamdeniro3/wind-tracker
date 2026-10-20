@@ -4033,8 +4033,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 51.5,
+      "score": {
+        "home": 23,
+        "away": 17
+      },
       "bet": null
     },
     {
@@ -4061,6 +4064,13 @@
           "windDir": "N",
           "total": 52.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-20T15:34:23+00:00",
+          "windMph": 5,
+          "windDir": "N",
+          "total": 52.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -4128,6 +4138,13 @@
           "windDir": "S",
           "total": 58.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-20T15:34:23+00:00",
+          "windMph": 10,
+          "windDir": "S",
+          "total": 58.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -4158,6 +4175,13 @@
           "windDir": "SSE",
           "total": 53.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-20T15:34:23+00:00",
+          "windMph": 10,
+          "windDir": "SSE",
+          "total": 53.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -4225,6 +4249,13 @@
           "windDir": "NE",
           "total": 61.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-20T15:34:23+00:00",
+          "windMph": 5,
+          "windDir": "NE",
+          "total": 61.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -4255,6 +4286,43 @@
           "windDir": "E",
           "total": 50.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-20T15:34:23+00:00",
+          "windMph": 10,
+          "windDir": "E",
+          "total": 50.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856730",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-10-24T19:30Z",
+      "homeTeam": "Mississippi State",
+      "awayTeam": "Oklahoma",
+      "homeAbbr": "MSST",
+      "awayAbbr": "OU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Davis Wade Stadium",
+      "espnId": "401856730",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-24/ou-msst",
+      "firstSeen": "2026-10-20T15:34:23+00:00",
+      "openingTotal": 46.5,
+      "readings": [
+        {
+          "at": "2026-10-20T15:34:23+00:00",
+          "windMph": 10,
+          "windDir": "ESE",
+          "total": 44.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -4285,6 +4353,13 @@
           "windDir": "E",
           "total": 46.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-20T15:34:23+00:00",
+          "windMph": 5,
+          "windDir": "E",
+          "total": 46.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -4320,7 +4395,97 @@
       "closingTotal": null,
       "score": null,
       "bet": null
+    },
+    {
+      "id": "NFL-401873011",
+      "league": "NFL",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-25T13:30Z",
+      "homeTeam": "New Orleans",
+      "awayTeam": "Pittsburgh",
+      "homeAbbr": "NO",
+      "awayAbbr": "PIT",
+      "neutralSite": true,
+      "dome": false,
+      "venue": "Stade de France",
+      "espnId": "401873011",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-pit-no",
+      "firstSeen": "2026-10-20T15:34:23+00:00",
+      "openingTotal": 42.5,
+      "readings": [
+        {
+          "at": "2026-10-20T15:34:23+00:00",
+          "windMph": 16,
+          "windDir": null,
+          "total": 44.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873017",
+      "league": "NFL",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-25T17:00Z",
+      "homeTeam": "Atlanta",
+      "awayTeam": "San Francisco",
+      "homeAbbr": "ATL",
+      "awayAbbr": "SF",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Mercedes-Benz Stadium",
+      "espnId": "401873017",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-sf-atl",
+      "firstSeen": "2026-10-20T15:34:23+00:00",
+      "openingTotal": 47.5,
+      "readings": [
+        {
+          "at": "2026-10-20T15:34:23+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 50.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873016",
+      "league": "NFL",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-25T17:00Z",
+      "homeTeam": "Houston",
+      "awayTeam": "New York Giants",
+      "homeAbbr": "HOU",
+      "awayAbbr": "NYG",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Reliant Stadium",
+      "espnId": "401873016",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-nyg-hou",
+      "firstSeen": "2026-10-20T15:34:23+00:00",
+      "openingTotal": 43.5,
+      "readings": [
+        {
+          "at": "2026-10-20T15:34:23+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 42.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
     }
   ],
-  "updatedAt": "2026-10-19T17:21:31+00:00"
+  "updatedAt": "2026-10-20T15:34:25+00:00"
 }
