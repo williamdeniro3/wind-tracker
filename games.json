@@ -4073,8 +4073,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 54.5,
+      "score": {
+        "home": 61,
+        "away": 38
+      },
       "bet": null
     },
     {
@@ -4145,6 +4148,13 @@
           "windDir": "S",
           "total": 58.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-21T15:51:19+00:00",
+          "windMph": 10,
+          "windDir": "S",
+          "total": 58.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4182,6 +4192,13 @@
           "windDir": "SSE",
           "total": 53.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-21T15:51:19+00:00",
+          "windMph": 5,
+          "windDir": "SE",
+          "total": 54.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4256,6 +4273,13 @@
           "windDir": "NE",
           "total": 61.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-21T15:51:19+00:00",
+          "windMph": 3,
+          "windDir": "E",
+          "total": 62.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4293,6 +4317,13 @@
           "windDir": "E",
           "total": 50.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-21T15:51:19+00:00",
+          "windMph": 10,
+          "windDir": "E",
+          "total": 50.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4323,6 +4354,13 @@
           "windDir": "ESE",
           "total": 44.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-21T15:51:19+00:00",
+          "windMph": 5,
+          "windDir": "E",
+          "total": 44.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4360,6 +4398,13 @@
           "windDir": "E",
           "total": 46.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-21T15:51:19+00:00",
+          "windMph": 5,
+          "windDir": "E",
+          "total": 45.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4420,6 +4465,13 @@
           "windDir": null,
           "total": 44.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-21T15:51:19+00:00",
+          "windMph": 14,
+          "windDir": null,
+          "total": 44.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4450,6 +4502,13 @@
           "windDir": null,
           "total": 50.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-21T15:51:19+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 50.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4480,6 +4539,43 @@
           "windDir": null,
           "total": 42.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-21T15:51:19+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 42.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873018",
+      "league": "NFL",
+      "season": 2026,
+      "week": 7,
+      "kickoff": "2026-10-25T17:00Z",
+      "homeTeam": "Carolina",
+      "awayTeam": "Tampa Bay",
+      "homeAbbr": "CAR",
+      "awayAbbr": "TB",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Bank of America Stadium",
+      "espnId": "401873018",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-tb-car",
+      "firstSeen": "2026-10-21T15:51:19+00:00",
+      "openingTotal": 45.5,
+      "readings": [
+        {
+          "at": "2026-10-21T15:51:19+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 44.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4487,5 +4583,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-20T15:34:25+00:00"
+  "updatedAt": "2026-10-21T15:51:21+00:00"
 }
