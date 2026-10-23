@@ -4169,6 +4169,13 @@
           "windDir": "S",
           "total": 58.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-23T15:39:14+00:00",
+          "windMph": 10,
+          "windDir": "S",
+          "total": 58.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4218,6 +4225,13 @@
           "at": "2026-10-22T15:48:21+00:00",
           "windMph": 5,
           "windDir": "SE",
+          "total": 55.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-23T15:39:14+00:00",
+          "windMph": 5,
+          "windDir": "SSE",
           "total": 55.5,
           "book": "DraftKings"
         }
@@ -4308,6 +4322,13 @@
           "windDir": "NE",
           "total": 63.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-23T15:39:14+00:00",
+          "windMph": 5,
+          "windDir": "NE",
+          "total": 62.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4359,6 +4380,13 @@
           "windDir": "E",
           "total": 49.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-23T15:39:14+00:00",
+          "windMph": 5,
+          "windDir": "NE",
+          "total": 50.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4402,6 +4430,13 @@
           "windMph": 5,
           "windDir": "E",
           "total": 44.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-23T15:39:14+00:00",
+          "windMph": 5,
+          "windDir": "E",
+          "total": 46.5,
           "book": "DraftKings"
         }
       ],
@@ -4450,6 +4485,13 @@
         },
         {
           "at": "2026-10-22T15:48:21+00:00",
+          "windMph": 5,
+          "windDir": "E",
+          "total": 45.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-23T15:39:14+00:00",
           "windMph": 5,
           "windDir": "E",
           "total": 45.5,
@@ -4528,6 +4570,13 @@
           "windDir": null,
           "total": 44.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-23T15:39:14+00:00",
+          "windMph": 16,
+          "windDir": null,
+          "total": 44.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4568,6 +4617,13 @@
         },
         {
           "at": "2026-10-22T15:48:21+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 49.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-23T15:39:14+00:00",
           "windMph": 10,
           "windDir": null,
           "total": 49.5,
@@ -4616,6 +4672,13 @@
           "windDir": null,
           "total": 42.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-23T15:39:14+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 42.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4653,6 +4716,13 @@
           "windDir": null,
           "total": 44.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-23T15:39:14+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 44.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4660,5 +4730,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-22T15:48:23+00:00"
+  "updatedAt": "2026-10-23T15:39:15+00:00"
 }
