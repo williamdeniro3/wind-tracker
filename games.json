@@ -4188,8 +4188,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 58.5,
+      "score": {
+        "home": 42,
+        "away": 14
+      },
       "bet": null
     },
     {
@@ -4253,8 +4256,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 55.5,
+      "score": {
+        "home": 59,
+        "away": 20
+      },
       "bet": null
     },
     {
@@ -4290,8 +4296,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 48.5,
+      "score": {
+        "home": 21,
+        "away": 56
+      },
       "bet": null
     },
     {
@@ -4362,8 +4371,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 60.5,
+      "score": {
+        "home": 39,
+        "away": 49
+      },
       "bet": null
     },
     {
@@ -4427,8 +4439,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 49.5,
+      "score": {
+        "home": 31,
+        "away": 20
+      },
       "bet": null
     },
     {
@@ -4485,8 +4500,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 49.5,
+      "score": {
+        "home": 15,
+        "away": 23
+      },
       "bet": null
     },
     {
@@ -4550,8 +4568,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 43.5,
+      "score": {
+        "home": 26,
+        "away": 0
+      },
       "bet": null
     },
     {
@@ -4580,8 +4601,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 50.5,
+      "score": {
+        "home": 24,
+        "away": 7
+      },
       "bet": null
     },
     {
@@ -4694,6 +4718,13 @@
           "windDir": null,
           "total": 49.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-25T14:52:42+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 50.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4752,6 +4783,13 @@
           "windDir": null,
           "total": 42.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-25T14:52:42+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 42.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4803,6 +4841,73 @@
           "windDir": null,
           "total": 44.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-10-25T14:52:42+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 44.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858502",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-10-31T16:00Z",
+      "homeTeam": "Iowa",
+      "awayTeam": "Wisconsin",
+      "homeAbbr": "IOWA",
+      "awayAbbr": "WIS",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Kinnick Stadium",
+      "espnId": "401858502",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-31/wis-iowa",
+      "firstSeen": "2026-10-25T14:52:42+00:00",
+      "openingTotal": 39.5,
+      "readings": [
+        {
+          "at": "2026-10-25T14:52:42+00:00",
+          "windMph": 10,
+          "windDir": "S",
+          "total": 39.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858509",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-10-31T23:30Z",
+      "homeTeam": "USC",
+      "awayTeam": "Ohio State",
+      "homeAbbr": "USC",
+      "awayAbbr": "OSU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Los Angeles Memorial Coliseum",
+      "espnId": "401858509",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-31/osu-usc",
+      "firstSeen": "2026-10-25T14:52:42+00:00",
+      "openingTotal": 55.5,
+      "readings": [
+        {
+          "at": "2026-10-25T14:52:42+00:00",
+          "windMph": 10,
+          "windDir": "SW",
+          "total": 52.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4810,5 +4915,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-24T14:18:24+00:00"
+  "updatedAt": "2026-10-25T14:52:44+00:00"
 }
