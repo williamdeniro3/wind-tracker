@@ -4662,8 +4662,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 42.5,
+      "score": {
+        "home": 10,
+        "away": 16
+      },
       "bet": null
     },
     {
@@ -4727,8 +4730,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 49.5,
+      "score": {
+        "home": 29,
+        "away": 20
+      },
       "bet": null
     },
     {
@@ -4792,8 +4798,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 43.5,
+      "score": {
+        "home": 21,
+        "away": 27
+      },
       "bet": null
     },
     {
@@ -4850,8 +4859,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 44.5,
+      "score": {
+        "home": 13,
+        "away": 43
+      },
       "bet": null
     },
     {
@@ -4877,6 +4889,43 @@
           "windMph": 10,
           "windDir": "S",
           "total": 39.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-26T17:09:06+00:00",
+          "windMph": 5,
+          "windDir": "SE",
+          "total": 36.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856842",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-10-31T16:00Z",
+      "homeTeam": "Texas Tech",
+      "awayTeam": "Arizona",
+      "homeAbbr": "TTU",
+      "awayAbbr": "ARIZ",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Galaxy Stadium",
+      "espnId": "401856842",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-31/ua-ttu",
+      "firstSeen": "2026-10-26T17:09:06+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-10-26T17:09:06+00:00",
+          "windMph": 10,
+          "windDir": "SW",
+          "total": 54.5,
           "book": "DraftKings"
         }
       ],
@@ -4908,6 +4957,13 @@
           "windDir": "SW",
           "total": 52.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-26T17:09:06+00:00",
+          "windMph": 5,
+          "windDir": "SW",
+          "total": 51.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4915,5 +4971,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-25T14:52:44+00:00"
+  "updatedAt": "2026-10-26T17:09:08+00:00"
 }
