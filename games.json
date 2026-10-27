@@ -4897,6 +4897,13 @@
           "windDir": "SE",
           "total": 36.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-27T16:14:03+00:00",
+          "windMph": 5,
+          "windDir": "SE",
+          "total": 36.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4924,6 +4931,13 @@
         {
           "at": "2026-10-26T17:09:06+00:00",
           "windMph": 10,
+          "windDir": "SW",
+          "total": 54.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-27T16:14:03+00:00",
+          "windMph": 5,
           "windDir": "SW",
           "total": 54.5,
           "book": "DraftKings"
@@ -4964,6 +4978,103 @@
           "windDir": "SW",
           "total": 51.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-27T16:14:03+00:00",
+          "windMph": 5,
+          "windDir": "SSW",
+          "total": 51.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873024",
+      "league": "NFL",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-11-01T18:00Z",
+      "homeTeam": "Dallas",
+      "awayTeam": "Arizona",
+      "homeAbbr": "DAL",
+      "awayAbbr": "ARI",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "AT&T Stadium",
+      "espnId": "401873024",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-ari-dal",
+      "firstSeen": "2026-10-27T16:14:03+00:00",
+      "openingTotal": 49.5,
+      "readings": [
+        {
+          "at": "2026-10-27T16:14:03+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 54.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873028",
+      "league": "NFL",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-11-01T18:00Z",
+      "homeTeam": "Jacksonville",
+      "awayTeam": "Indianapolis",
+      "homeAbbr": "JAX",
+      "awayAbbr": "IND",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "EverBank Stadium",
+      "espnId": "401873028",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-ind-jax",
+      "firstSeen": "2026-10-27T16:14:03+00:00",
+      "openingTotal": 49.5,
+      "readings": [
+        {
+          "at": "2026-10-27T16:14:03+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 46.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873032",
+      "league": "NFL",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-11-01T21:05Z",
+      "homeTeam": "Los Angeles Rams",
+      "awayTeam": "Los Angeles Chargers",
+      "homeAbbr": "LAR",
+      "awayAbbr": "LAC",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "SoFi Stadium",
+      "espnId": "401873032",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-lac-lar",
+      "firstSeen": "2026-10-27T16:14:03+00:00",
+      "openingTotal": 48.5,
+      "readings": [
+        {
+          "at": "2026-10-27T16:14:03+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 44.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4971,5 +5082,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-26T17:09:08+00:00"
+  "updatedAt": "2026-10-27T16:14:04+00:00"
 }
