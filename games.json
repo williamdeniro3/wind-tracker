@@ -4904,6 +4904,13 @@
           "windDir": "SE",
           "total": 36.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-28T17:01:35+00:00",
+          "windMph": 5,
+          "windDir": "E",
+          "total": 36.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -4939,6 +4946,13 @@
           "at": "2026-10-27T16:14:03+00:00",
           "windMph": 5,
           "windDir": "SW",
+          "total": 54.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-28T17:01:35+00:00",
+          "windMph": 5,
+          "windDir": "WSW",
           "total": 54.5,
           "book": "DraftKings"
         }
@@ -4985,6 +4999,13 @@
           "windDir": "SSW",
           "total": 51.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-28T17:01:35+00:00",
+          "windMph": 5,
+          "windDir": "SW",
+          "total": 51.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5012,6 +5033,13 @@
         {
           "at": "2026-10-27T16:14:03+00:00",
           "windMph": 10,
+          "windDir": null,
+          "total": 54.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-28T17:01:35+00:00",
+          "windMph": 5,
           "windDir": null,
           "total": 54.5,
           "book": "DraftKings"
@@ -5045,6 +5073,43 @@
           "windDir": null,
           "total": 46.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-28T17:01:35+00:00",
+          "windMph": 16,
+          "windDir": null,
+          "total": 46.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873025",
+      "league": "NFL",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-11-01T18:00Z",
+      "homeTeam": "Tampa Bay",
+      "awayTeam": "Atlanta",
+      "homeAbbr": "TB",
+      "awayAbbr": "ATL",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Raymond James Stadium",
+      "espnId": "401873025",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-atl-tb",
+      "firstSeen": "2026-10-28T17:01:35+00:00",
+      "openingTotal": 46.5,
+      "readings": [
+        {
+          "at": "2026-10-28T17:01:35+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 44.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5075,6 +5140,13 @@
           "windDir": null,
           "total": 44.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-28T17:01:35+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 45.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5082,5 +5154,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-27T16:14:04+00:00"
+  "updatedAt": "2026-10-28T17:01:39+00:00"
 }
