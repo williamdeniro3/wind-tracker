@@ -4911,6 +4911,13 @@
           "windDir": "E",
           "total": 36.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-29T17:19:38+00:00",
+          "windMph": 5,
+          "windDir": "SE",
+          "total": 36.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -4955,6 +4962,13 @@
           "windDir": "WSW",
           "total": 54.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-29T17:19:38+00:00",
+          "windMph": 5,
+          "windDir": "S",
+          "total": 54.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5006,6 +5020,13 @@
           "windDir": "SW",
           "total": 51.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-29T17:19:38+00:00",
+          "windMph": 5,
+          "windDir": "SW",
+          "total": 51.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5043,6 +5064,13 @@
           "windDir": null,
           "total": 54.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-29T17:19:38+00:00",
+          "windMph": 5,
+          "windDir": null,
+          "total": 54.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5080,6 +5108,13 @@
           "windDir": null,
           "total": 46.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-29T17:19:38+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 46.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5110,6 +5145,13 @@
           "windDir": null,
           "total": 44.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-29T17:19:38+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 44.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5147,6 +5189,43 @@
           "windDir": null,
           "total": 45.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-29T17:19:38+00:00",
+          "windMph": 5,
+          "windDir": null,
+          "total": 45.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873034",
+      "league": "NFL",
+      "season": 2026,
+      "week": 8,
+      "kickoff": "2026-11-01T21:25Z",
+      "homeTeam": "Miami",
+      "awayTeam": "New England",
+      "homeAbbr": "MIA",
+      "awayAbbr": "NE",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Hard Rock Stadium",
+      "espnId": "401873034",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-ne-mia",
+      "firstSeen": "2026-10-29T17:19:38+00:00",
+      "openingTotal": 45.5,
+      "readings": [
+        {
+          "at": "2026-10-29T17:19:38+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 43.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5154,5 +5233,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-28T17:01:39+00:00"
+  "updatedAt": "2026-10-29T17:19:41+00:00"
 }
