@@ -4925,6 +4925,13 @@
           "windDir": "SE",
           "total": 36.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-31T15:57:36+00:00",
+          "windMph": 5,
+          "windDir": "SE",
+          "total": 35.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -4983,6 +4990,13 @@
           "windDir": "S",
           "total": 54.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-31T15:57:36+00:00",
+          "windMph": 5,
+          "windDir": "SSW",
+          "total": 54.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5043,6 +5057,43 @@
           "windDir": "SE",
           "total": 58.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-31T15:57:36+00:00",
+          "windMph": 15,
+          "windDir": "E",
+          "total": 58.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401862815",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-10-31T19:00Z",
+      "homeTeam": "East Carolina",
+      "awayTeam": "Temple",
+      "homeAbbr": "ECU",
+      "awayAbbr": "TEM",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Dowdy-Ficklen Stadium",
+      "espnId": "401862815",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-10-31/tem-ecu",
+      "firstSeen": "2026-10-31T15:57:36+00:00",
+      "openingTotal": 49.5,
+      "readings": [
+        {
+          "at": "2026-10-31T15:57:36+00:00",
+          "windMph": 10,
+          "windDir": "NE",
+          "total": 50.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5108,6 +5159,13 @@
           "windDir": "WSW",
           "total": 51.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-31T15:57:36+00:00",
+          "windMph": 5,
+          "windDir": "WSW",
+          "total": 50.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5159,6 +5217,13 @@
           "windDir": null,
           "total": 54.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-31T15:57:36+00:00",
+          "windMph": 5,
+          "windDir": null,
+          "total": 54.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5210,6 +5275,13 @@
           "windDir": null,
           "total": 46.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-31T15:57:36+00:00",
+          "windMph": 16,
+          "windDir": null,
+          "total": 46.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5254,6 +5326,13 @@
           "windDir": null,
           "total": 43.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-31T15:57:36+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 43.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5305,6 +5384,13 @@
           "windDir": null,
           "total": 45.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-31T15:57:36+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 45.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5342,6 +5428,13 @@
           "windDir": null,
           "total": 43.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-10-31T15:57:36+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 43.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5349,5 +5442,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-30T16:57:28+00:00"
+  "updatedAt": "2026-10-31T15:57:38+00:00"
 }
