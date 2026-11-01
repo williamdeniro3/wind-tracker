@@ -4934,8 +4934,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 36.5,
+      "score": {
+        "home": 30,
+        "away": 0
+      },
       "bet": null
     },
     {
@@ -4999,8 +5002,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 55.5,
+      "score": {
+        "home": 34,
+        "away": 26
+      },
       "bet": null
     },
     {
@@ -5029,8 +5035,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 45.5,
+      "score": {
+        "home": 23,
+        "away": 36
+      },
       "bet": null
     },
     {
@@ -5066,8 +5075,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 57.5,
+      "score": {
+        "home": 20,
+        "away": 35
+      },
       "bet": null
     },
     {
@@ -5096,8 +5108,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 51.5,
+      "score": {
+        "home": 17,
+        "away": 9
+      },
       "bet": null
     },
     {
@@ -5168,8 +5183,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 50.5,
+      "score": {
+        "home": 30,
+        "away": 18
+      },
       "bet": null
     },
     {
@@ -5220,6 +5238,13 @@
         },
         {
           "at": "2026-10-31T15:57:36+00:00",
+          "windMph": 5,
+          "windDir": null,
+          "total": 54.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-01T17:01:29+00:00",
           "windMph": 5,
           "windDir": null,
           "total": 54.5,
@@ -5282,6 +5307,13 @@
           "windDir": null,
           "total": 46.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-01T17:01:29+00:00",
+          "windMph": 16,
+          "windDir": null,
+          "total": 45.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5329,6 +5361,13 @@
         },
         {
           "at": "2026-10-31T15:57:36+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 43.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-01T17:01:29+00:00",
           "windMph": 12,
           "windDir": null,
           "total": 43.5,
@@ -5391,6 +5430,13 @@
           "windDir": null,
           "total": 45.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-01T17:01:29+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 45.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5435,6 +5481,43 @@
           "windDir": null,
           "total": 43.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-01T17:01:29+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 41.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856856",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-08T02:30Z",
+      "homeTeam": "Texas Tech",
+      "awayTeam": "West Virginia",
+      "homeAbbr": "TTU",
+      "awayAbbr": "WVU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Galaxy Stadium",
+      "espnId": "401856856",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-07/wvu-ttu",
+      "firstSeen": "2026-11-01T17:01:29+00:00",
+      "openingTotal": 63.5,
+      "readings": [
+        {
+          "at": "2026-11-01T17:01:29+00:00",
+          "windMph": 10,
+          "windDir": "SSE",
+          "total": 63.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5442,5 +5525,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-10-31T15:57:38+00:00"
+  "updatedAt": "2026-11-01T17:01:30+00:00"
 }
