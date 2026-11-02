@@ -5251,8 +5251,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 54.5,
+      "score": {
+        "home": 30,
+        "away": 33
+      },
       "bet": null
     },
     {
@@ -5316,8 +5319,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 45.5,
+      "score": {
+        "home": 42,
+        "away": 7
+      },
       "bet": null
     },
     {
@@ -5374,8 +5380,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 43.5,
+      "score": {
+        "home": 16,
+        "away": 0
+      },
       "bet": null
     },
     {
@@ -5439,8 +5448,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 45.5,
+      "score": {
+        "home": 24,
+        "away": 9
+      },
       "bet": null
     },
     {
@@ -5490,6 +5502,129 @@
           "book": "Draft Kings"
         }
       ],
+      "closingTotal": 41.5,
+      "score": {
+        "home": 19,
+        "away": 24
+      },
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401871073",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T20:00Z",
+      "homeTeam": "Kennesaw State",
+      "awayTeam": "Delaware",
+      "homeAbbr": "KENN",
+      "awayAbbr": "DEL",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Walens Family Field at Fifth Third Stadium",
+      "espnId": "401871073",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-07/del-kenn",
+      "firstSeen": "2026-11-02T20:38:44+00:00",
+      "openingTotal": 51.5,
+      "readings": [
+        {
+          "at": "2026-11-02T20:38:44+00:00",
+          "windMph": 10,
+          "windDir": "NW",
+          "total": 56.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401871076",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T20:30Z",
+      "homeTeam": "Middle Tennessee",
+      "awayTeam": "Western Kentucky",
+      "homeAbbr": "MTSU",
+      "awayAbbr": "WKU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Johnny \"Red\" Floyd Stadium",
+      "espnId": "401871076",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-07/wku-mtsu",
+      "firstSeen": "2026-11-02T20:38:44+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-11-02T20:38:44+00:00",
+          "windMph": 10,
+          "windDir": "NNW",
+          "total": 52.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401862819",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T20:30Z",
+      "homeTeam": "UAB",
+      "awayTeam": "Charlotte",
+      "homeAbbr": "UAB",
+      "awayAbbr": "CLT",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Protective Stadium",
+      "espnId": "401862819",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-07/char-uab",
+      "firstSeen": "2026-11-02T20:38:44+00:00",
+      "openingTotal": 51.5,
+      "readings": [
+        {
+          "at": "2026-11-02T20:38:44+00:00",
+          "windMph": 10,
+          "windDir": "NW",
+          "total": 47.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401869968",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T22:00Z",
+      "homeTeam": "Louisiana",
+      "awayTeam": "South Alabama",
+      "homeAbbr": "UL",
+      "awayAbbr": "USA",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Our Lady of Lourdes Stadium",
+      "espnId": "401869968",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-07/usa-ull",
+      "firstSeen": "2026-11-02T20:38:44+00:00",
+      "openingTotal": 57.5,
+      "readings": [
+        {
+          "at": "2026-11-02T20:38:44+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 57.5,
+          "book": "DraftKings"
+        }
+      ],
       "closingTotal": null,
       "score": null,
       "bet": null
@@ -5518,6 +5653,13 @@
           "windDir": "SSE",
           "total": 63.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-02T20:38:44+00:00",
+          "windMph": 5,
+          "windDir": "N",
+          "total": 65.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5525,5 +5667,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-01T17:01:30+00:00"
+  "updatedAt": "2026-11-02T20:38:46+00:00"
 }
