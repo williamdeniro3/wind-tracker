@@ -5533,6 +5533,13 @@
           "windDir": "NW",
           "total": 56.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-03T18:15:10+00:00",
+          "windMph": 10,
+          "windDir": "NW",
+          "total": 56.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5562,6 +5569,13 @@
           "windMph": 10,
           "windDir": "NNW",
           "total": 52.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-03T18:15:10+00:00",
+          "windMph": 10,
+          "windDir": "NNW",
+          "total": 53.5,
           "book": "DraftKings"
         }
       ],
@@ -5593,6 +5607,43 @@
           "windDir": "NW",
           "total": 47.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-03T18:15:10+00:00",
+          "windMph": 5,
+          "windDir": "N",
+          "total": 47.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856851",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T20:30Z",
+      "homeTeam": "Houston",
+      "awayTeam": "Cincinnati",
+      "homeAbbr": "HOU",
+      "awayAbbr": "CIN",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "TDECU Stadium",
+      "espnId": "401856851",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-07/cin-hou",
+      "firstSeen": "2026-11-03T18:15:10+00:00",
+      "openingTotal": 61.5,
+      "readings": [
+        {
+          "at": "2026-11-03T18:15:10+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 62.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5619,6 +5670,13 @@
       "readings": [
         {
           "at": "2026-11-02T20:38:44+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 57.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-03T18:15:10+00:00",
           "windMph": 10,
           "windDir": "N",
           "total": 57.5,
@@ -5660,6 +5718,43 @@
           "windDir": "N",
           "total": 65.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-03T18:15:10+00:00",
+          "windMph": 5,
+          "windDir": "WSW",
+          "total": 64.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873050",
+      "league": "NFL",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-09T01:20Z",
+      "homeTeam": "Chicago",
+      "awayTeam": "Tampa Bay",
+      "homeAbbr": "CHI",
+      "awayAbbr": "TB",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Soldier Field",
+      "espnId": "401873050",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-tb-chi",
+      "firstSeen": "2026-11-03T18:15:10+00:00",
+      "openingTotal": 48.5,
+      "readings": [
+        {
+          "at": "2026-11-03T18:15:10+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 46.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5667,5 +5762,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-02T20:38:46+00:00"
+  "updatedAt": "2026-11-03T18:15:11+00:00"
 }
