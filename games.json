@@ -5510,6 +5510,36 @@
       "bet": null
     },
     {
+      "id": "NCAAF-401862822",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T17:00Z",
+      "homeTeam": "Tulane",
+      "awayTeam": "Tulsa",
+      "homeAbbr": "TULN",
+      "awayAbbr": "TLSA",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Yulman Stadium",
+      "espnId": "401862822",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-07/tlsa-tul",
+      "firstSeen": "2026-11-04T18:29:26+00:00",
+      "openingTotal": 48.5,
+      "readings": [
+        {
+          "at": "2026-11-04T18:29:26+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 49.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
       "id": "NCAAF-401871073",
       "league": "NCAAF",
       "season": 2026,
@@ -5539,6 +5569,36 @@
           "windMph": 10,
           "windDir": "NW",
           "total": 56.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401869936",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T20:00Z",
+      "homeTeam": "Arkansas State",
+      "awayTeam": "UL Monroe",
+      "homeAbbr": "ARST",
+      "awayAbbr": "ULM",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Centennial Bank Stadium",
+      "espnId": "401869936",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-07/ulm-arst",
+      "firstSeen": "2026-11-04T18:29:26+00:00",
+      "openingTotal": 51.5,
+      "readings": [
+        {
+          "at": "2026-11-04T18:29:26+00:00",
+          "windMph": 10,
+          "windDir": "NNE",
+          "total": 53.5,
           "book": "DraftKings"
         }
       ],
@@ -5644,6 +5704,43 @@
           "windDir": "N",
           "total": 62.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-04T18:29:26+00:00",
+          "windMph": 5,
+          "windDir": "NE",
+          "total": 62.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856740",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T20:30Z",
+      "homeTeam": "LSU",
+      "awayTeam": "Alabama",
+      "homeAbbr": "LSU",
+      "awayAbbr": "ALA",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Tiger Stadium (LA)",
+      "espnId": "401856740",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-07/bama-lsu",
+      "firstSeen": "2026-11-04T18:29:26+00:00",
+      "openingTotal": 54.5,
+      "readings": [
+        {
+          "at": "2026-11-04T18:29:26+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 52.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5725,6 +5822,103 @@
           "windDir": "WSW",
           "total": 64.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-04T18:29:26+00:00",
+          "windMph": 5,
+          "windDir": "SSE",
+          "total": 65.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873043",
+      "league": "NFL",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-08T18:00Z",
+      "homeTeam": "Washington",
+      "awayTeam": "Los Angeles Rams",
+      "homeAbbr": "WSH",
+      "awayAbbr": "LAR",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Northwest Stadium",
+      "espnId": "401873043",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-lar-was",
+      "firstSeen": "2026-11-04T18:29:26+00:00",
+      "openingTotal": 50.5,
+      "readings": [
+        {
+          "at": "2026-11-04T18:29:26+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 47.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873044",
+      "league": "NFL",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-08T18:00Z",
+      "homeTeam": "Philadelphia",
+      "awayTeam": "New York Giants",
+      "homeAbbr": "PHI",
+      "awayAbbr": "NYG",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Lincoln Financial Field",
+      "espnId": "401873044",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-nyg-phi",
+      "firstSeen": "2026-11-04T18:29:26+00:00",
+      "openingTotal": 44.5,
+      "readings": [
+        {
+          "at": "2026-11-04T18:29:26+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 39.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873048",
+      "league": "NFL",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-08T21:25Z",
+      "homeTeam": "Seattle",
+      "awayTeam": "Arizona",
+      "homeAbbr": "SEA",
+      "awayAbbr": "ARI",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Lumen Field",
+      "espnId": "401873048",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-ari-sea",
+      "firstSeen": "2026-11-04T18:29:26+00:00",
+      "openingTotal": 45.5,
+      "readings": [
+        {
+          "at": "2026-11-04T18:29:26+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 41.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5755,6 +5949,13 @@
           "windDir": null,
           "total": 46.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-04T18:29:26+00:00",
+          "windMph": 5,
+          "windDir": null,
+          "total": 47.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5762,5 +5963,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-03T18:15:11+00:00"
+  "updatedAt": "2026-11-04T18:29:29+00:00"
 }
