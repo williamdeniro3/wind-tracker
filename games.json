@@ -5510,6 +5510,36 @@
       "bet": null
     },
     {
+      "id": "NCAAF-401858288",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T00:00Z",
+      "homeTeam": "SMU",
+      "awayTeam": "Virginia Tech",
+      "homeAbbr": "SMU",
+      "awayAbbr": "VT",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Gerald J. Ford Stadium",
+      "espnId": "401858288",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-06/vt-smu",
+      "firstSeen": "2026-11-05T18:33:46+00:00",
+      "openingTotal": 57.5,
+      "readings": [
+        {
+          "at": "2026-11-05T18:33:46+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 56.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
       "id": "NCAAF-401862822",
       "league": "NCAAF",
       "season": 2026,
@@ -5533,6 +5563,13 @@
           "windDir": "N",
           "total": 49.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-05T18:33:46+00:00",
+          "windMph": 5,
+          "windDir": "N",
+          "total": 49.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5600,6 +5637,13 @@
           "windDir": "NNE",
           "total": 53.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-05T18:33:46+00:00",
+          "windMph": 5,
+          "windDir": "N",
+          "total": 53.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5711,6 +5755,13 @@
           "windDir": "NE",
           "total": 62.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-05T18:33:46+00:00",
+          "windMph": 10,
+          "windDir": "E",
+          "total": 62.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5741,6 +5792,13 @@
           "windDir": "N",
           "total": 52.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-05T18:33:46+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 52.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5829,6 +5887,13 @@
           "windDir": "SSE",
           "total": 65.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-05T18:33:46+00:00",
+          "windMph": 2,
+          "windDir": "SSW",
+          "total": 65.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5859,6 +5924,13 @@
           "windDir": null,
           "total": 47.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-05T18:33:46+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 48.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5889,6 +5961,13 @@
           "windDir": null,
           "total": 39.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-05T18:33:46+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 38.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5919,6 +5998,13 @@
           "windDir": null,
           "total": 41.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-05T18:33:46+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 39.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5956,6 +6042,13 @@
           "windDir": null,
           "total": 47.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-05T18:33:46+00:00",
+          "windMph": 5,
+          "windDir": null,
+          "total": 47.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -5963,5 +6056,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-04T18:29:29+00:00"
+  "updatedAt": "2026-11-05T18:33:48+00:00"
 }
