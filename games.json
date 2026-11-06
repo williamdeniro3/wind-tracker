@@ -5533,6 +5533,13 @@
           "windDir": "N",
           "total": 56.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 56.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5570,6 +5577,13 @@
           "windDir": "N",
           "total": 49.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 49.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5644,6 +5658,13 @@
           "windDir": "N",
           "total": 53.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 5,
+          "windDir": "N",
+          "total": 53.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5799,6 +5820,43 @@
           "windDir": "N",
           "total": 52.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 52.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858517",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T21:15Z",
+      "homeTeam": "Wisconsin",
+      "awayTeam": "Rutgers",
+      "homeAbbr": "WIS",
+      "awayAbbr": "RUTG",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Camp Randall Stadium",
+      "espnId": "401858517",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-07/rut-wis",
+      "firstSeen": "2026-11-06T17:49:19+00:00",
+      "openingTotal": 46.5,
+      "readings": [
+        {
+          "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 10,
+          "windDir": "W",
+          "total": 46.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5835,6 +5893,36 @@
           "windMph": 10,
           "windDir": "N",
           "total": 57.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858513",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-08T00:30Z",
+      "homeTeam": "Northwestern",
+      "awayTeam": "Iowa",
+      "homeAbbr": "NU",
+      "awayAbbr": "IOWA",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Ryan Field",
+      "espnId": "401858513",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-07/iowa-nw",
+      "firstSeen": "2026-11-06T17:49:19+00:00",
+      "openingTotal": 42.5,
+      "readings": [
+        {
+          "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 10,
+          "windDir": "WSW",
+          "total": 45.5,
           "book": "DraftKings"
         }
       ],
@@ -5894,6 +5982,13 @@
           "windDir": "SSW",
           "total": 65.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 2,
+          "windDir": "S",
+          "total": 65.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5931,6 +6026,13 @@
           "windDir": null,
           "total": 48.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 9,
+          "windDir": null,
+          "total": 48.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5968,6 +6070,73 @@
           "windDir": null,
           "total": 38.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 38.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873040",
+      "league": "NFL",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-08T18:00Z",
+      "homeTeam": "Indianapolis",
+      "awayTeam": "Dallas",
+      "homeAbbr": "IND",
+      "awayAbbr": "DAL",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Lucas Oil Stadium",
+      "espnId": "401873040",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-dal-ind",
+      "firstSeen": "2026-11-06T17:49:19+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 51.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873046",
+      "league": "NFL",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-08T21:05Z",
+      "homeTeam": "Los Angeles Chargers",
+      "awayTeam": "Houston",
+      "homeAbbr": "LAC",
+      "awayAbbr": "HOU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "SoFi Stadium",
+      "espnId": "401873046",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-hou-lac",
+      "firstSeen": "2026-11-06T17:49:19+00:00",
+      "openingTotal": 43.5,
+      "readings": [
+        {
+          "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 40.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -6005,6 +6174,13 @@
           "windDir": null,
           "total": 39.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 39.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -6049,6 +6225,13 @@
           "windDir": null,
           "total": 47.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 47.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -6056,5 +6239,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-05T18:33:48+00:00"
+  "updatedAt": "2026-11-06T17:49:21+00:00"
 }
