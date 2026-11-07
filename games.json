@@ -5542,8 +5542,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 57.5,
+      "score": {
+        "home": 51,
+        "away": 28
+      },
       "bet": null
     },
     {
@@ -5583,6 +5586,43 @@
           "windMph": 10,
           "windDir": "N",
           "total": 49.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-07T16:45:42+00:00",
+          "windMph": 10,
+          "windDir": "NE",
+          "total": 50.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858512",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-07T17:00Z",
+      "homeTeam": "Minnesota",
+      "awayTeam": "UCLA",
+      "homeAbbr": "MINN",
+      "awayAbbr": "UCLA",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Huntington Bank Stadium",
+      "espnId": "401858512",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-07/ucla-minn",
+      "firstSeen": "2026-11-07T16:45:42+00:00",
+      "openingTotal": 42.5,
+      "readings": [
+        {
+          "at": "2026-11-07T16:45:42+00:00",
+          "windMph": 10,
+          "windDir": "SSW",
+          "total": 38.5,
           "book": "DraftKings"
         }
       ],
@@ -5664,6 +5704,13 @@
           "windMph": 5,
           "windDir": "N",
           "total": 53.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-07T16:45:42+00:00",
+          "windMph": 5,
+          "windDir": "N",
+          "total": 52.5,
           "book": "DraftKings"
         }
       ],
@@ -5783,6 +5830,13 @@
           "windDir": "E",
           "total": 62.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-07T16:45:42+00:00",
+          "windMph": 5,
+          "windDir": "E",
+          "total": 61.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5826,6 +5880,13 @@
           "windMph": 10,
           "windDir": "N",
           "total": 52.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-07T16:45:42+00:00",
+          "windMph": 5,
+          "windDir": "N",
+          "total": 53.5,
           "book": "DraftKings"
         }
       ],
@@ -5924,6 +5985,13 @@
           "windDir": "WSW",
           "total": 45.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-07T16:45:42+00:00",
+          "windMph": 10,
+          "windDir": "WSW",
+          "total": 42.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -5989,6 +6057,13 @@
           "windDir": "S",
           "total": 65.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-07T16:45:42+00:00",
+          "windMph": 2,
+          "windDir": "S",
+          "total": 65.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -6032,6 +6107,13 @@
           "windMph": 9,
           "windDir": null,
           "total": 48.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-07T16:45:42+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 47.5,
           "book": "DraftKings"
         }
       ],
@@ -6077,6 +6159,13 @@
           "windDir": null,
           "total": 38.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-07T16:45:42+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 38.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -6107,6 +6196,13 @@
           "windDir": null,
           "total": 51.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-07T16:45:42+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 51.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -6133,6 +6229,13 @@
       "readings": [
         {
           "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 40.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-07T16:45:42+00:00",
           "windMph": 10,
           "windDir": null,
           "total": 40.5,
@@ -6177,6 +6280,13 @@
         },
         {
           "at": "2026-11-06T17:49:19+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 39.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-07T16:45:42+00:00",
           "windMph": 10,
           "windDir": null,
           "total": 39.5,
@@ -6232,6 +6342,13 @@
           "windDir": null,
           "total": 47.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-07T16:45:42+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 47.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -6239,5 +6356,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-06T17:49:21+00:00"
+  "updatedAt": "2026-11-07T16:45:44+00:00"
 }
