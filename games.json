@@ -5596,8 +5596,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 50.5,
+      "score": {
+        "home": 10,
+        "away": 60
+      },
       "bet": null
     },
     {
@@ -5626,8 +5629,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 37.5,
+      "score": {
+        "home": 20,
+        "away": 34
+      },
       "bet": null
     },
     {
@@ -5663,8 +5669,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 57.5,
+      "score": {
+        "home": 42,
+        "away": 40
+      },
       "bet": null
     },
     {
@@ -5714,8 +5723,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 52.5,
+      "score": {
+        "home": 17,
+        "away": 19
+      },
       "bet": null
     },
     {
@@ -5751,8 +5763,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 53.5,
+      "score": {
+        "home": 51,
+        "away": 42
+      },
       "bet": null
     },
     {
@@ -5788,8 +5803,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 47.5,
+      "score": {
+        "home": 23,
+        "away": 12
+      },
       "bet": null
     },
     {
@@ -5839,8 +5857,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 61.5,
+      "score": {
+        "home": 31,
+        "away": 24
+      },
       "bet": null
     },
     {
@@ -5890,8 +5911,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 54.5,
+      "score": {
+        "home": 13,
+        "away": 31
+      },
       "bet": null
     },
     {
@@ -5920,8 +5944,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 45.5,
+      "score": {
+        "home": 31,
+        "away": 10
+      },
       "bet": null
     },
     {
@@ -5957,8 +5984,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 57.5,
+      "score": {
+        "home": 28,
+        "away": 26
+      },
       "bet": null
     },
     {
@@ -5994,8 +6024,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 42.5,
+      "score": {
+        "home": 10,
+        "away": 24
+      },
       "bet": null
     },
     {
@@ -6066,8 +6099,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 68.5,
+      "score": {
+        "home": 53,
+        "away": 48
+      },
       "bet": null
     },
     {
@@ -6112,6 +6148,13 @@
         {
           "at": "2026-11-07T16:45:42+00:00",
           "windMph": 12,
+          "windDir": null,
+          "total": 47.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-08T16:55:47+00:00",
+          "windMph": 9,
           "windDir": null,
           "total": 47.5,
           "book": "DraftKings"
@@ -6166,6 +6209,13 @@
           "windDir": null,
           "total": 38.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-08T16:55:47+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 38.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -6203,6 +6253,13 @@
           "windDir": null,
           "total": 51.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-08T16:55:47+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 51.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -6236,6 +6293,13 @@
         },
         {
           "at": "2026-11-07T16:45:42+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 40.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-08T16:55:47+00:00",
           "windMph": 10,
           "windDir": null,
           "total": 40.5,
@@ -6290,6 +6354,43 @@
           "windMph": 10,
           "windDir": null,
           "total": 39.5,
+          "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-08T16:55:47+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 39.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873049",
+      "league": "NFL",
+      "season": 2026,
+      "week": 9,
+      "kickoff": "2026-11-08T21:25Z",
+      "homeTeam": "New England",
+      "awayTeam": "Green Bay",
+      "homeAbbr": "NE",
+      "awayAbbr": "GB",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Gillette Stadium",
+      "espnId": "401873049",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-gb-ne",
+      "firstSeen": "2026-11-08T16:55:47+00:00",
+      "openingTotal": 46.5,
+      "readings": [
+        {
+          "at": "2026-11-08T16:55:47+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 44.5,
           "book": "DraftKings"
         }
       ],
@@ -6349,6 +6450,43 @@
           "windDir": null,
           "total": 47.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-08T16:55:47+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 47.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401864536",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-14T20:30Z",
+      "homeTeam": "Northern Illinois",
+      "awayTeam": "Nevada",
+      "homeAbbr": "NIU",
+      "awayAbbr": "NEV",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Huskie Stadium",
+      "espnId": "401864536",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-14/nev-niu",
+      "firstSeen": "2026-11-08T16:55:47+00:00",
+      "openingTotal": 46.5,
+      "readings": [
+        {
+          "at": "2026-11-08T16:55:47+00:00",
+          "windMph": 10,
+          "windDir": "WNW",
+          "total": 46.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -6356,5 +6494,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-07T16:45:44+00:00"
+  "updatedAt": "2026-11-08T16:55:48+00:00"
 }
