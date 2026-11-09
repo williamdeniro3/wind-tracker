@@ -6160,8 +6160,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 47.5,
+      "score": {
+        "home": 13,
+        "away": 20
+      },
       "bet": null
     },
     {
@@ -6218,8 +6221,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 38.5,
+      "score": {
+        "home": 11,
+        "away": 19
+      },
       "bet": null
     },
     {
@@ -6262,8 +6268,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 51.5,
+      "score": {
+        "home": 23,
+        "away": 27
+      },
       "bet": null
     },
     {
@@ -6306,8 +6315,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 40.5,
+      "score": {
+        "home": 22,
+        "away": 44
+      },
       "bet": null
     },
     {
@@ -6364,8 +6376,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 40.5,
+      "score": {
+        "home": 17,
+        "away": 3
+      },
       "bet": null
     },
     {
@@ -6394,8 +6409,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 44.5,
+      "score": {
+        "home": 27,
+        "away": 45
+      },
       "bet": null
     },
     {
@@ -6459,6 +6477,39 @@
           "book": "DraftKings"
         }
       ],
+      "closingTotal": 47.5,
+      "score": {
+        "home": 27,
+        "away": 24
+      },
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856888",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-14T20:00Z",
+      "homeTeam": "Texas A&M",
+      "awayTeam": "Tennessee",
+      "homeAbbr": "TA&M",
+      "awayAbbr": "TENN",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Kyle Field",
+      "espnId": "401856888",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-14/tenn-tamu",
+      "firstSeen": "2026-11-09T21:19:06+00:00",
+      "openingTotal": 55.5,
+      "readings": [
+        {
+          "at": "2026-11-09T21:19:06+00:00",
+          "windMph": 10,
+          "windDir": "SE",
+          "total": 42.5,
+          "book": "DraftKings"
+        }
+      ],
       "closingTotal": null,
       "score": null,
       "bet": null
@@ -6487,6 +6538,43 @@
           "windDir": "WNW",
           "total": 46.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-09T21:19:06+00:00",
+          "windMph": 5,
+          "windDir": "NW",
+          "total": 47.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858294",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-14T20:30Z",
+      "homeTeam": "Notre Dame",
+      "awayTeam": "Boston College",
+      "homeAbbr": "ND",
+      "awayAbbr": "BC",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Notre Dame Stadium",
+      "espnId": "401858294",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-14/bc-nd",
+      "firstSeen": "2026-11-09T21:19:06+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-11-09T21:19:06+00:00",
+          "windMph": 10,
+          "windDir": "NW",
+          "total": 52.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -6494,5 +6582,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-08T16:55:48+00:00"
+  "updatedAt": "2026-11-09T21:19:08+00:00"
 }
