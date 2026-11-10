@@ -6485,6 +6485,36 @@
       "bet": null
     },
     {
+      "id": "NFL-401873052",
+      "league": "NFL",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-13T01:15Z",
+      "homeTeam": "New York Giants",
+      "awayTeam": "Washington",
+      "homeAbbr": "NYG",
+      "awayAbbr": "WSH",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "MetLife Stadium",
+      "espnId": "401873052",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-was-nyg",
+      "firstSeen": "2026-11-10T18:29:51+00:00",
+      "openingTotal": 47.5,
+      "readings": [
+        {
+          "at": "2026-11-10T18:29:51+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 41.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
       "id": "NCAAF-401856888",
       "league": "NCAAF",
       "season": 2026,
@@ -6545,6 +6575,13 @@
           "windDir": "NW",
           "total": 47.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-10T18:29:51+00:00",
+          "windMph": 5,
+          "windDir": "NW",
+          "total": 47.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -6575,6 +6612,133 @@
           "windDir": "NW",
           "total": 52.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-10T18:29:51+00:00",
+          "windMph": 5,
+          "windDir": "NW",
+          "total": 52.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401864537",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-15T04:00Z",
+      "homeTeam": "Hawai'i",
+      "awayTeam": "North Dakota State",
+      "homeAbbr": "HAW",
+      "awayAbbr": "NDSU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Clarence T.C. Ching Athletics Complex",
+      "espnId": "401864537",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-14/ndsu-haw",
+      "firstSeen": "2026-11-10T18:29:51+00:00",
+      "openingTotal": 42.5,
+      "readings": [
+        {
+          "at": "2026-11-10T18:29:51+00:00",
+          "windMph": 24,
+          "windDir": "ENE",
+          "total": 38.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873054",
+      "league": "NFL",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-15T18:00Z",
+      "homeTeam": "New York Jets",
+      "awayTeam": "Buffalo",
+      "homeAbbr": "NYJ",
+      "awayAbbr": "BUF",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "MetLife Stadium",
+      "espnId": "401873054",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-buf-nyj",
+      "firstSeen": "2026-11-10T18:29:51+00:00",
+      "openingTotal": 46.5,
+      "readings": [
+        {
+          "at": "2026-11-10T18:29:51+00:00",
+          "windMph": 14,
+          "windDir": null,
+          "total": 50.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873056",
+      "league": "NFL",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-15T18:00Z",
+      "homeTeam": "Cleveland",
+      "awayTeam": "Houston",
+      "homeAbbr": "CLE",
+      "awayAbbr": "HOU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Huntington Bank Field",
+      "espnId": "401873056",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-hou-cle",
+      "firstSeen": "2026-11-10T18:29:51+00:00",
+      "openingTotal": 38.5,
+      "readings": [
+        {
+          "at": "2026-11-10T18:29:51+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 39.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873063",
+      "league": "NFL",
+      "season": 2026,
+      "week": 10,
+      "kickoff": "2026-11-15T21:25Z",
+      "homeTeam": "Dallas",
+      "awayTeam": "San Francisco",
+      "homeAbbr": "DAL",
+      "awayAbbr": "SF",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "AT&T Stadium",
+      "espnId": "401873063",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-sf-dal",
+      "firstSeen": "2026-11-10T18:29:51+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-11-10T18:29:51+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 55.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -6582,5 +6746,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-09T21:19:08+00:00"
+  "updatedAt": "2026-11-10T18:29:54+00:00"
 }
