@@ -6508,6 +6508,43 @@
           "windDir": null,
           "total": 41.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-11T18:25:05+00:00",
+          "windMph": 9,
+          "windDir": null,
+          "total": 41.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858526",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-14T02:00Z",
+      "homeTeam": "UCLA",
+      "awayTeam": "Illinois",
+      "homeAbbr": "UCLA",
+      "awayAbbr": "ILL",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Rose Bowl",
+      "espnId": "401858526",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-13/ill-ucla",
+      "firstSeen": "2026-11-11T18:25:05+00:00",
+      "openingTotal": 47.5,
+      "readings": [
+        {
+          "at": "2026-11-11T18:25:05+00:00",
+          "windMph": 10,
+          "windDir": "SSW",
+          "total": 47.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -6582,6 +6619,13 @@
           "windDir": "NW",
           "total": 47.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-11T18:25:05+00:00",
+          "windMph": 5,
+          "windDir": "NNW",
+          "total": 47.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -6619,6 +6663,73 @@
           "windDir": "NW",
           "total": 52.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-11T18:25:05+00:00",
+          "windMph": 5,
+          "windDir": "NW",
+          "total": 52.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856857",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-14T20:30Z",
+      "homeTeam": "UCF",
+      "awayTeam": "Arizona State",
+      "homeAbbr": "UCF",
+      "awayAbbr": "ASU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Acrisure Bounce House",
+      "espnId": "401856857",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-14/asu-ucf",
+      "firstSeen": "2026-11-11T18:25:05+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-11-11T18:25:05+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 48.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401864538",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-15T00:00Z",
+      "homeTeam": "Air Force",
+      "awayTeam": "San Jos\u00e9 State",
+      "homeAbbr": "AFA",
+      "awayAbbr": "SJSU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Falcon Stadium",
+      "espnId": "401864538",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-14/sjsu-af",
+      "firstSeen": "2026-11-11T18:25:05+00:00",
+      "openingTotal": 49.5,
+      "readings": [
+        {
+          "at": "2026-11-11T18:25:05+00:00",
+          "windMph": 10,
+          "windDir": "S",
+          "total": 47.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -6645,6 +6756,13 @@
       "readings": [
         {
           "at": "2026-11-10T18:29:51+00:00",
+          "windMph": 24,
+          "windDir": "ENE",
+          "total": 38.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-11T18:25:05+00:00",
           "windMph": 24,
           "windDir": "ENE",
           "total": 38.5,
@@ -6679,6 +6797,13 @@
           "windDir": null,
           "total": 50.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-11T18:25:05+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 50.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -6708,6 +6833,13 @@
           "windMph": 12,
           "windDir": null,
           "total": 39.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-11T18:25:05+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 40.5,
           "book": "Draft Kings"
         }
       ],
@@ -6739,6 +6871,13 @@
           "windDir": null,
           "total": 55.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-11T18:25:05+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 55.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -6746,5 +6885,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-10T18:29:54+00:00"
+  "updatedAt": "2026-11-11T18:25:07+00:00"
 }
