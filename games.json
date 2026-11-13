@@ -6524,8 +6524,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 40.5,
+      "score": {
+        "home": 21,
+        "away": 24
+      },
       "bet": null
     },
     {
@@ -6555,6 +6558,13 @@
         },
         {
           "at": "2026-11-12T18:43:32+00:00",
+          "windMph": 10,
+          "windDir": "SSW",
+          "total": 47.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-13T18:25:16+00:00",
           "windMph": 10,
           "windDir": "SSW",
           "total": 47.5,
@@ -6647,6 +6657,13 @@
           "windDir": "NNW",
           "total": 47.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-13T18:25:16+00:00",
+          "windMph": 5,
+          "windDir": "NW",
+          "total": 47.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -6735,6 +6752,43 @@
           "windDir": "N",
           "total": 48.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-13T18:25:16+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 48.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401871099",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-14T22:00Z",
+      "homeTeam": "Louisiana Tech",
+      "awayTeam": "Southern Miss",
+      "homeAbbr": "LT",
+      "awayAbbr": "USM",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Joe Aillet Stadium",
+      "espnId": "401871099",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-14/usm-lt",
+      "firstSeen": "2026-11-13T18:25:16+00:00",
+      "openingTotal": 54.5,
+      "readings": [
+        {
+          "at": "2026-11-13T18:25:16+00:00",
+          "windMph": 10,
+          "windDir": "E",
+          "total": 56.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -6802,6 +6856,13 @@
           "windDir": "SSE",
           "total": 47.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-13T18:25:16+00:00",
+          "windMph": 5,
+          "windDir": "SE",
+          "total": 47.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -6829,6 +6890,13 @@
         {
           "at": "2026-11-12T18:43:32+00:00",
           "windMph": 10,
+          "windDir": "W",
+          "total": 46.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-13T18:25:16+00:00",
+          "windMph": 5,
           "windDir": "W",
           "total": 46.5,
           "book": "Draft Kings"
@@ -6920,6 +6988,13 @@
           "windDir": null,
           "total": 50.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-13T18:25:16+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 50.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -6961,6 +7036,13 @@
         {
           "at": "2026-11-12T18:43:32+00:00",
           "windMph": 12,
+          "windDir": null,
+          "total": 40.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-13T18:25:16+00:00",
+          "windMph": 10,
           "windDir": null,
           "total": 40.5,
           "book": "Draft Kings"
@@ -7008,6 +7090,13 @@
           "windDir": null,
           "total": 55.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-13T18:25:16+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 55.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7015,5 +7104,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-12T18:43:34+00:00"
+  "updatedAt": "2026-11-13T18:25:18+00:00"
 }
