@@ -6604,8 +6604,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 44.5,
+      "score": {
+        "home": 7,
+        "away": 22
+      },
       "bet": null
     },
     {
@@ -6676,8 +6679,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 48.5,
+      "score": {
+        "home": 7,
+        "away": 28
+      },
       "bet": null
     },
     {
@@ -6734,8 +6740,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 51.5,
+      "score": {
+        "home": 41,
+        "away": 7
+      },
       "bet": null
     },
     {
@@ -6771,8 +6780,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 55.5,
+      "score": {
+        "home": 63,
+        "away": 31
+      },
       "bet": null
     },
     {
@@ -6822,8 +6834,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 46.5,
+      "score": {
+        "home": 13,
+        "away": 26
+      },
       "bet": null
     },
     {
@@ -6852,8 +6867,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 68.5,
+      "score": {
+        "home": 14,
+        "away": 37
+      },
       "bet": null
     },
     {
@@ -6903,8 +6921,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 50.5,
+      "score": {
+        "home": 24,
+        "away": 3
+      },
       "bet": null
     },
     {
@@ -6947,8 +6968,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 46.5,
+      "score": {
+        "home": 17,
+        "away": 21
+      },
       "bet": null
     },
     {
@@ -6991,8 +7015,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 39.5,
+      "score": {
+        "home": 13,
+        "away": 21
+      },
       "bet": null
     },
     {
@@ -7047,6 +7074,13 @@
           "windDir": null,
           "total": 50.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-15T17:35:44+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 50.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -7105,6 +7139,13 @@
           "windDir": null,
           "total": 40.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-15T17:35:44+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 40.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -7163,6 +7204,43 @@
           "windDir": null,
           "total": 55.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-15T17:35:44+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 55.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401864542",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-21T02:00Z",
+      "homeTeam": "Wyoming",
+      "awayTeam": "New Mexico",
+      "homeAbbr": "WYO",
+      "awayAbbr": "UNM",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "War Memorial Stadium",
+      "espnId": "401864542",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-20/unm-wyo",
+      "firstSeen": "2026-11-15T17:35:44+00:00",
+      "openingTotal": 38.5,
+      "readings": [
+        {
+          "at": "2026-11-15T17:35:44+00:00",
+          "windMph": 15,
+          "windDir": "W",
+          "total": 38.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -7170,5 +7248,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-14T16:52:11+00:00"
+  "updatedAt": "2026-11-15T17:35:46+00:00"
 }
