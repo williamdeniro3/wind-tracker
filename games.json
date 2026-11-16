@@ -7083,8 +7083,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 50.5,
+      "score": {
+        "home": 12,
+        "away": 31
+      },
       "bet": null
     },
     {
@@ -7148,8 +7151,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 40.5,
+      "score": {
+        "home": 27,
+        "away": 24
+      },
       "bet": null
     },
     {
@@ -7213,8 +7219,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 55.5,
+      "score": {
+        "home": 40,
+        "away": 46
+      },
       "bet": null
     },
     {
@@ -7241,6 +7250,13 @@
           "windDir": "W",
           "total": 38.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-16T20:50:01+00:00",
+          "windMph": 20,
+          "windDir": "W",
+          "total": 37.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7248,5 +7264,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-15T17:35:46+00:00"
+  "updatedAt": "2026-11-16T20:50:04+00:00"
 }
