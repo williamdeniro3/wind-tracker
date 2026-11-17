@@ -7262,7 +7262,97 @@
       "closingTotal": null,
       "score": null,
       "bet": null
+    },
+    {
+      "id": "NCAAF-401856871",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-21T20:30Z",
+      "homeTeam": "Baylor",
+      "awayTeam": "Texas Tech",
+      "homeAbbr": "BAY",
+      "awayAbbr": "TTU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "McLane Stadium",
+      "espnId": "401856871",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-21/ttu-bay",
+      "firstSeen": "2026-11-17T19:39:14+00:00",
+      "openingTotal": 55.5,
+      "readings": [
+        {
+          "at": "2026-11-17T19:39:14+00:00",
+          "windMph": 10,
+          "windDir": "S",
+          "total": 55.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873071",
+      "league": "NFL",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00Z",
+      "homeTeam": "Chicago",
+      "awayTeam": "New Orleans",
+      "homeAbbr": "CHI",
+      "awayAbbr": "NO",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Soldier Field",
+      "espnId": "401873071",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-no-chi",
+      "firstSeen": "2026-11-17T19:39:14+00:00",
+      "openingTotal": 46.5,
+      "readings": [
+        {
+          "at": "2026-11-17T19:39:14+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 48.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873073",
+      "league": "NFL",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00Z",
+      "homeTeam": "Dallas",
+      "awayTeam": "Tennessee",
+      "homeAbbr": "DAL",
+      "awayAbbr": "TEN",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "AT&T Stadium",
+      "espnId": "401873073",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-ten-dal",
+      "firstSeen": "2026-11-17T19:39:14+00:00",
+      "openingTotal": 48.5,
+      "readings": [
+        {
+          "at": "2026-11-17T19:39:14+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 54.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
     }
   ],
-  "updatedAt": "2026-11-16T20:50:04+00:00"
+  "updatedAt": "2026-11-17T19:39:22+00:00"
 }
