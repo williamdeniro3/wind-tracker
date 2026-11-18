@@ -7264,6 +7264,66 @@
       "bet": null
     },
     {
+      "id": "NCAAF-401856750",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-21T18:00Z",
+      "homeTeam": "Mississippi State",
+      "awayTeam": "Tennessee Tech",
+      "homeAbbr": "MSST",
+      "awayAbbr": "TNTC",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Davis Wade Stadium",
+      "espnId": "401856750",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-21/tenn-msst",
+      "firstSeen": "2026-11-18T19:15:25+00:00",
+      "openingTotal": null,
+      "readings": [
+        {
+          "at": "2026-11-18T19:15:25+00:00",
+          "windMph": 10,
+          "windDir": "SE",
+          "total": null,
+          "book": null
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856746",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-21T19:00Z",
+      "homeTeam": "Alabama",
+      "awayTeam": "Chattanooga",
+      "homeAbbr": "ALA",
+      "awayAbbr": "UTC",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Bryant-Denny Stadium",
+      "espnId": "401856746",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-21/chat-bama",
+      "firstSeen": "2026-11-18T19:15:25+00:00",
+      "openingTotal": null,
+      "readings": [
+        {
+          "at": "2026-11-18T19:15:25+00:00",
+          "windMph": 10,
+          "windDir": "E",
+          "total": null,
+          "book": null
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
       "id": "NCAAF-401856871",
       "league": "NCAAF",
       "season": 2026,
@@ -7294,6 +7354,66 @@
       "bet": null
     },
     {
+      "id": "NCAAF-401858304",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-21T20:30Z",
+      "homeTeam": "Florida State",
+      "awayTeam": "NC State",
+      "homeAbbr": "FSU",
+      "awayAbbr": "NCSU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Doak Campbell Stadium",
+      "espnId": "401858304",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-21/ncst-fsu",
+      "firstSeen": "2026-11-18T19:15:25+00:00",
+      "openingTotal": 54.5,
+      "readings": [
+        {
+          "at": "2026-11-18T19:15:25+00:00",
+          "windMph": 15,
+          "windDir": "NE",
+          "total": 56.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856872",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-22T02:00Z",
+      "homeTeam": "TCU",
+      "awayTeam": "Utah",
+      "homeAbbr": "TCU",
+      "awayAbbr": "UTAH",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Amon G. Carter Stadium",
+      "espnId": "401856872",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-21/utah-tcu",
+      "firstSeen": "2026-11-18T19:15:25+00:00",
+      "openingTotal": 44.5,
+      "readings": [
+        {
+          "at": "2026-11-18T19:15:25+00:00",
+          "windMph": 10,
+          "windDir": "S",
+          "total": 46.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
       "id": "NFL-401873071",
       "league": "NFL",
       "season": 2026,
@@ -7317,6 +7437,13 @@
           "windDir": null,
           "total": 48.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-18T19:15:25+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 48.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -7347,6 +7474,73 @@
           "windDir": null,
           "total": 54.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-18T19:15:25+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 55.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873067",
+      "league": "NFL",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00Z",
+      "homeTeam": "Kansas City",
+      "awayTeam": "Arizona",
+      "homeAbbr": "KC",
+      "awayAbbr": "ARI",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Arrowhead Stadium",
+      "espnId": "401873067",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-ari-kc",
+      "firstSeen": "2026-11-18T19:15:25+00:00",
+      "openingTotal": 44.5,
+      "readings": [
+        {
+          "at": "2026-11-18T19:15:25+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 40.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873078",
+      "league": "NFL",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-24T01:15Z",
+      "homeTeam": "Washington",
+      "awayTeam": "Cincinnati",
+      "homeAbbr": "WSH",
+      "awayAbbr": "CIN",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Northwest Stadium",
+      "espnId": "401873078",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-cin-was",
+      "firstSeen": "2026-11-18T19:15:25+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-11-18T19:15:25+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 54.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -7354,5 +7548,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-17T19:39:22+00:00"
+  "updatedAt": "2026-11-18T19:15:27+00:00"
 }
