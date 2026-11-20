@@ -7287,6 +7287,43 @@
           "windDir": "SE",
           "total": 60.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-20T18:58:48+00:00",
+          "windMph": 5,
+          "windDir": "SE",
+          "total": 60.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401862835",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-21T17:00Z",
+      "homeTeam": "Tulane",
+      "awayTeam": "North Texas",
+      "homeAbbr": "TULN",
+      "awayAbbr": "UNT",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Yulman Stadium",
+      "espnId": "401862835",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-21/unt-tul",
+      "firstSeen": "2026-11-20T18:58:48+00:00",
+      "openingTotal": 60.5,
+      "readings": [
+        {
+          "at": "2026-11-20T18:58:48+00:00",
+          "windMph": 10,
+          "windDir": "E",
+          "total": 55.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7324,6 +7361,13 @@
           "windDir": "ESE",
           "total": 59.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-20T18:58:48+00:00",
+          "windMph": 5,
+          "windDir": "ESE",
+          "total": 59.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7357,6 +7401,13 @@
         },
         {
           "at": "2026-11-19T19:22:45+00:00",
+          "windMph": 5,
+          "windDir": "E",
+          "total": 58.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-20T18:58:48+00:00",
           "windMph": 5,
           "windDir": "E",
           "total": 58.5,
@@ -7495,6 +7546,13 @@
           "windDir": null,
           "total": 48.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-20T18:58:48+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 48.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7539,6 +7597,13 @@
           "windDir": null,
           "total": 55.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-20T18:58:48+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 54.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7576,6 +7641,13 @@
           "windDir": null,
           "total": 40.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-20T18:58:48+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 40.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7603,6 +7675,13 @@
         {
           "at": "2026-11-19T19:22:45+00:00",
           "windMph": 12,
+          "windDir": null,
+          "total": 43.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-20T18:58:48+00:00",
+          "windMph": 8,
           "windDir": null,
           "total": 43.5,
           "book": "Draft Kings"
@@ -7643,6 +7722,13 @@
           "windDir": null,
           "total": 53.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-20T18:58:48+00:00",
+          "windMph": 9,
+          "windDir": null,
+          "total": 53.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7650,5 +7736,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-19T19:22:47+00:00"
+  "updatedAt": "2026-11-20T18:58:50+00:00"
 }
