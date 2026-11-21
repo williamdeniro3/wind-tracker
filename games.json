@@ -7259,8 +7259,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 37.5,
+      "score": {
+        "home": 17,
+        "away": 24
+      },
       "bet": null
     },
     {
@@ -7368,6 +7371,13 @@
           "windDir": "ESE",
           "total": 59.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-21T17:53:52+00:00",
+          "windMph": 5,
+          "windDir": "ESE",
+          "total": 57.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7411,6 +7421,13 @@
           "windMph": 5,
           "windDir": "E",
           "total": 58.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-21T17:53:52+00:00",
+          "windMph": 5,
+          "windDir": "E",
+          "total": 56.5,
           "book": "Draft Kings"
         }
       ],
@@ -7502,6 +7519,13 @@
           "windDir": "S",
           "total": 46.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-21T17:53:52+00:00",
+          "windMph": 10,
+          "windDir": "S",
+          "total": 46.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7549,6 +7573,13 @@
         },
         {
           "at": "2026-11-20T18:58:48+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 48.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-21T17:53:52+00:00",
           "windMph": 15,
           "windDir": null,
           "total": 48.5,
@@ -7604,6 +7635,13 @@
           "windDir": null,
           "total": 54.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-21T17:53:52+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 54.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7648,6 +7686,13 @@
           "windDir": null,
           "total": 40.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-21T17:53:52+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 40.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7684,6 +7729,43 @@
           "windMph": 8,
           "windDir": null,
           "total": 43.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-21T17:53:52+00:00",
+          "windMph": 8,
+          "windDir": null,
+          "total": 43.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873076",
+      "league": "NFL",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00Z",
+      "homeTeam": "Philadelphia",
+      "awayTeam": "Pittsburgh",
+      "homeAbbr": "PHI",
+      "awayAbbr": "PIT",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Lincoln Financial Field",
+      "espnId": "401873076",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-pit-phi",
+      "firstSeen": "2026-11-21T17:53:52+00:00",
+      "openingTotal": 42.5,
+      "readings": [
+        {
+          "at": "2026-11-21T17:53:52+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 37.5,
           "book": "Draft Kings"
         }
       ],
@@ -7729,6 +7811,13 @@
           "windDir": null,
           "total": 53.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-21T17:53:52+00:00",
+          "windMph": 8,
+          "windDir": null,
+          "total": 53.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7736,5 +7825,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-20T18:58:50+00:00"
+  "updatedAt": "2026-11-21T17:53:53+00:00"
 }
