@@ -7299,8 +7299,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 60.5,
+      "score": {
+        "home": 59,
+        "away": 17
+      },
       "bet": null
     },
     {
@@ -7329,8 +7332,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 56.5,
+      "score": {
+        "home": 28,
+        "away": 24
+      },
       "bet": null
     },
     {
@@ -7380,8 +7386,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 57.5,
+      "score": {
+        "home": 34,
+        "away": 16
+      },
       "bet": null
     },
     {
@@ -7431,8 +7440,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 55.5,
+      "score": {
+        "home": 47,
+        "away": 0
+      },
       "bet": null
     },
     {
@@ -7461,8 +7473,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 57.5,
+      "score": {
+        "home": 10,
+        "away": 20
+      },
       "bet": null
     },
     {
@@ -7491,8 +7506,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 56.5,
+      "score": {
+        "home": 10,
+        "away": 28
+      },
       "bet": null
     },
     {
@@ -7528,8 +7546,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 46.5,
+      "score": {
+        "home": 17,
+        "away": 38
+      },
       "bet": null
     },
     {
@@ -7774,6 +7795,36 @@
       "bet": null
     },
     {
+      "id": "NFL-401873074",
+      "league": "NFL",
+      "season": 2026,
+      "week": 11,
+      "kickoff": "2026-11-22T21:05Z",
+      "homeTeam": "Los Angeles Chargers",
+      "awayTeam": "New York Jets",
+      "homeAbbr": "LAC",
+      "awayAbbr": "NYJ",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "SoFi Stadium",
+      "espnId": "401873074",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-nyj-lac",
+      "firstSeen": "2026-11-22T18:16:49+00:00",
+      "openingTotal": 41.5,
+      "readings": [
+        {
+          "at": "2026-11-22T18:16:49+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 43.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
       "id": "NFL-401873078",
       "league": "NFL",
       "season": 2026,
@@ -7818,6 +7869,103 @@
           "windDir": null,
           "total": 53.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-22T18:16:49+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 54.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858537",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-28T17:30Z",
+      "homeTeam": "Northwestern",
+      "awayTeam": "Illinois",
+      "homeAbbr": "NU",
+      "awayAbbr": "ILL",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Ryan Field",
+      "espnId": "401858537",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-28/ill-nw",
+      "firstSeen": "2026-11-22T18:16:49+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-11-22T18:16:49+00:00",
+          "windMph": 10,
+          "windDir": "SW",
+          "total": 49.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401871083",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-28T19:00Z",
+      "homeTeam": "Middle Tennessee",
+      "awayTeam": "New Mexico State",
+      "homeAbbr": "MTSU",
+      "awayAbbr": "NMSU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Johnny \"Red\" Floyd Stadium",
+      "espnId": "401871083",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-28/nmsu-mtsu",
+      "firstSeen": "2026-11-22T18:16:49+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-11-22T18:16:49+00:00",
+          "windMph": 10,
+          "windDir": "SW",
+          "total": 52.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401864550",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-28T20:30Z",
+      "homeTeam": "Northern Illinois",
+      "awayTeam": "UTEP",
+      "homeAbbr": "NIU",
+      "awayAbbr": "UTEP",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Huskie Stadium",
+      "espnId": "401864550",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-28/utep-niu",
+      "firstSeen": "2026-11-22T18:16:49+00:00",
+      "openingTotal": 49.5,
+      "readings": [
+        {
+          "at": "2026-11-22T18:16:49+00:00",
+          "windMph": 10,
+          "windDir": "SW",
+          "total": 48.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7825,5 +7973,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-21T17:53:53+00:00"
+  "updatedAt": "2026-11-22T18:16:50+00:00"
 }
