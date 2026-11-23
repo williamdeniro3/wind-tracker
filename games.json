@@ -7607,8 +7607,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 48.5,
+      "score": {
+        "home": 21,
+        "away": 13
+      },
       "bet": null
     },
     {
@@ -7665,8 +7668,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 54.5,
+      "score": {
+        "home": 51,
+        "away": 30
+      },
       "bet": null
     },
     {
@@ -7716,8 +7722,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 40.5,
+      "score": {
+        "home": 34,
+        "away": 7
+      },
       "bet": null
     },
     {
@@ -7760,8 +7769,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 44.5,
+      "score": {
+        "home": 35,
+        "away": 33
+      },
       "bet": null
     },
     {
@@ -7790,8 +7802,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 37.5,
+      "score": {
+        "home": 19,
+        "away": 16
+      },
       "bet": null
     },
     {
@@ -7820,8 +7835,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 43.5,
+      "score": {
+        "home": 24,
+        "away": 27
+      },
       "bet": null
     },
     {
@@ -7876,6 +7894,43 @@
           "windDir": null,
           "total": 54.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-23T22:28:23+00:00",
+          "windMph": 9,
+          "windDir": null,
+          "total": 54.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401862838",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-27T20:30Z",
+      "homeTeam": "Memphis",
+      "awayTeam": "Temple",
+      "homeAbbr": "MEM",
+      "awayAbbr": "TEM",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Simmons Bank Liberty Stadium",
+      "espnId": "401862838",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-27/tem-mem",
+      "firstSeen": "2026-11-23T22:28:23+00:00",
+      "openingTotal": 64.5,
+      "readings": [
+        {
+          "at": "2026-11-23T22:28:23+00:00",
+          "windMph": 10,
+          "windDir": "WSW",
+          "total": 66.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7904,6 +7959,13 @@
           "at": "2026-11-22T18:16:49+00:00",
           "windMph": 10,
           "windDir": "SW",
+          "total": 49.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-23T22:28:23+00:00",
+          "windMph": 10,
+          "windDir": "WSW",
           "total": 49.5,
           "book": "Draft Kings"
         }
@@ -7973,5 +8035,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-22T18:16:50+00:00"
+  "updatedAt": "2026-11-23T22:28:24+00:00"
 }
