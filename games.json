@@ -7903,6 +7903,99 @@
           "book": "Draft Kings"
         }
       ],
+      "closingTotal": 54.5,
+      "score": {
+        "home": 22,
+        "away": 20
+      },
+      "bet": null
+    },
+    {
+      "id": "NFL-401873079",
+      "league": "NFL",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-26T01:00Z",
+      "homeTeam": "Los Angeles Rams",
+      "awayTeam": "Green Bay",
+      "homeAbbr": "LAR",
+      "awayAbbr": "GB",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "SoFi Stadium",
+      "espnId": "401873079",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-gb-lar",
+      "firstSeen": "2026-11-24T21:00:44+00:00",
+      "openingTotal": 49.5,
+      "readings": [
+        {
+          "at": "2026-11-24T21:00:44+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 44.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873082",
+      "league": "NFL",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-27T01:20Z",
+      "homeTeam": "Buffalo",
+      "awayTeam": "Kansas City",
+      "homeAbbr": "BUF",
+      "awayAbbr": "KC",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Highmark Stadium",
+      "espnId": "401873082",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-kc-buf",
+      "firstSeen": "2026-11-24T21:00:44+00:00",
+      "openingTotal": 49.5,
+      "readings": [
+        {
+          "at": "2026-11-24T21:00:44+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 47.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873083",
+      "league": "NFL",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-27T20:00Z",
+      "homeTeam": "Pittsburgh",
+      "awayTeam": "Denver",
+      "homeAbbr": "PIT",
+      "awayAbbr": "DEN",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Acrisure Stadium",
+      "espnId": "401873083",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-den-pit",
+      "firstSeen": "2026-11-24T21:00:44+00:00",
+      "openingTotal": 41.5,
+      "readings": [
+        {
+          "at": "2026-11-24T21:00:44+00:00",
+          "windMph": 21,
+          "windDir": null,
+          "total": 38.5,
+          "book": "Draft Kings"
+        }
+      ],
       "closingTotal": null,
       "score": null,
       "bet": null
@@ -7930,6 +8023,36 @@
           "windMph": 10,
           "windDir": "WSW",
           "total": 66.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856759",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-27T20:30Z",
+      "homeTeam": "Florida State",
+      "awayTeam": "Florida",
+      "homeAbbr": "FSU",
+      "awayAbbr": "FLA",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Doak Campbell Stadium",
+      "espnId": "401856759",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-27/fla-fsu",
+      "firstSeen": "2026-11-24T21:00:44+00:00",
+      "openingTotal": 52.5,
+      "readings": [
+        {
+          "at": "2026-11-24T21:00:44+00:00",
+          "windMph": 10,
+          "windDir": "W",
+          "total": 53.5,
           "book": "Draft Kings"
         }
       ],
@@ -8005,6 +8128,66 @@
       "bet": null
     },
     {
+      "id": "NCAAF-401862841",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-28T19:00Z",
+      "homeTeam": "Rice",
+      "awayTeam": "Army",
+      "homeAbbr": "RICE",
+      "awayAbbr": "ARMY",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "First Community Stadium",
+      "espnId": "401862841",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-28/army-rice",
+      "firstSeen": "2026-11-24T21:00:44+00:00",
+      "openingTotal": 50.5,
+      "readings": [
+        {
+          "at": "2026-11-24T21:00:44+00:00",
+          "windMph": 10,
+          "windDir": "S",
+          "total": 48.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401869959",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-28T19:00Z",
+      "homeTeam": "Georgia State",
+      "awayTeam": "Louisiana",
+      "homeAbbr": "GAST",
+      "awayAbbr": "UL",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Center Parc Stadium",
+      "espnId": "401869959",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-28/ull-gast",
+      "firstSeen": "2026-11-24T21:00:44+00:00",
+      "openingTotal": 56.5,
+      "readings": [
+        {
+          "at": "2026-11-24T21:00:44+00:00",
+          "windMph": 10,
+          "windDir": "W",
+          "total": 55.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
       "id": "NCAAF-401864550",
       "league": "NCAAF",
       "season": 2026,
@@ -8033,7 +8216,217 @@
       "closingTotal": null,
       "score": null,
       "bet": null
+    },
+    {
+      "id": "NCAAF-401856874",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-29T02:30Z",
+      "homeTeam": "Houston",
+      "awayTeam": "Baylor",
+      "homeAbbr": "HOU",
+      "awayAbbr": "BAY",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "TDECU Stadium",
+      "espnId": "401856874",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-28/bay-hou",
+      "firstSeen": "2026-11-24T21:00:44+00:00",
+      "openingTotal": 54.5,
+      "readings": [
+        {
+          "at": "2026-11-24T21:00:44+00:00",
+          "windMph": 10,
+          "windDir": "S",
+          "total": 55.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401864547",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-29T04:00Z",
+      "homeTeam": "Hawai'i",
+      "awayTeam": "Sacramento State",
+      "homeAbbr": "HAW",
+      "awayAbbr": "SAC",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Clarence T.C. Ching Athletics Complex",
+      "espnId": "401864547",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-28/sac-haw",
+      "firstSeen": "2026-11-24T21:00:44+00:00",
+      "openingTotal": 44.5,
+      "readings": [
+        {
+          "at": "2026-11-24T21:00:44+00:00",
+          "windMph": 14,
+          "windDir": "ENE",
+          "total": 39.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873085",
+      "league": "NFL",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-29T18:00Z",
+      "homeTeam": "Houston",
+      "awayTeam": "Baltimore",
+      "homeAbbr": "HOU",
+      "awayAbbr": "BAL",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Reliant Stadium",
+      "espnId": "401873085",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-bal-hou",
+      "firstSeen": "2026-11-24T21:00:44+00:00",
+      "openingTotal": 45.5,
+      "readings": [
+        {
+          "at": "2026-11-24T21:00:44+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 47.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873087",
+      "league": "NFL",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-29T18:00Z",
+      "homeTeam": "Cincinnati",
+      "awayTeam": "New Orleans",
+      "homeAbbr": "CIN",
+      "awayAbbr": "NO",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Paycor Stadium",
+      "espnId": "401873087",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-no-cin",
+      "firstSeen": "2026-11-24T21:00:44+00:00",
+      "openingTotal": 48.5,
+      "readings": [
+        {
+          "at": "2026-11-24T21:00:44+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 50.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873088",
+      "league": "NFL",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-29T18:00Z",
+      "homeTeam": "Indianapolis",
+      "awayTeam": "New York Giants",
+      "homeAbbr": "IND",
+      "awayAbbr": "NYG",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Lucas Oil Stadium",
+      "espnId": "401873088",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-nyg-ind",
+      "firstSeen": "2026-11-24T21:00:44+00:00",
+      "openingTotal": 47.5,
+      "readings": [
+        {
+          "at": "2026-11-24T21:00:44+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 41.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873091",
+      "league": "NFL",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-29T21:25Z",
+      "homeTeam": "San Francisco",
+      "awayTeam": "Seattle",
+      "homeAbbr": "SF",
+      "awayAbbr": "SEA",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Levi's Stadium",
+      "espnId": "401873091",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-sea-sf",
+      "firstSeen": "2026-11-24T21:00:44+00:00",
+      "openingTotal": 46.5,
+      "readings": [
+        {
+          "at": "2026-11-24T21:00:44+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 46.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873086",
+      "league": "NFL",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-30T01:20Z",
+      "homeTeam": "Cleveland",
+      "awayTeam": "Las Vegas",
+      "homeAbbr": "CLE",
+      "awayAbbr": "LV",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Huntington Bank Field",
+      "espnId": "401873086",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-lv-cle",
+      "firstSeen": "2026-11-24T21:00:44+00:00",
+      "openingTotal": 39.5,
+      "readings": [
+        {
+          "at": "2026-11-24T21:00:44+00:00",
+          "windMph": 14,
+          "windDir": null,
+          "total": 41.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
     }
   ],
-  "updatedAt": "2026-11-23T22:28:24+00:00"
+  "updatedAt": "2026-11-24T21:00:45+00:00"
 }
