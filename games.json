@@ -7934,6 +7934,43 @@
           "windDir": null,
           "total": 44.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-25T20:23:43+00:00",
+          "windMph": 5,
+          "windDir": null,
+          "total": 43.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873080",
+      "league": "NFL",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-26T21:30Z",
+      "homeTeam": "Dallas",
+      "awayTeam": "Philadelphia",
+      "homeAbbr": "DAL",
+      "awayAbbr": "PHI",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "AT&T Stadium",
+      "espnId": "401873080",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-phi-dal",
+      "firstSeen": "2026-11-25T20:23:43+00:00",
+      "openingTotal": 49.5,
+      "readings": [
+        {
+          "at": "2026-11-25T20:23:43+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 47.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -7963,6 +8000,13 @@
           "windMph": 12,
           "windDir": null,
           "total": 47.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-25T20:23:43+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 46.5,
           "book": "Draft Kings"
         }
       ],
@@ -7994,6 +8038,13 @@
           "windDir": null,
           "total": 38.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-25T20:23:43+00:00",
+          "windMph": 18,
+          "windDir": null,
+          "total": 36.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8021,6 +8072,13 @@
         {
           "at": "2026-11-23T22:28:23+00:00",
           "windMph": 10,
+          "windDir": "WSW",
+          "total": 66.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-25T20:23:43+00:00",
+          "windMph": 5,
           "windDir": "WSW",
           "total": 66.5,
           "book": "Draft Kings"
@@ -8090,6 +8148,36 @@
           "windMph": 10,
           "windDir": "WSW",
           "total": 49.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401871103",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-28T18:00Z",
+      "homeTeam": "Old Dominion",
+      "awayTeam": "Southern Miss",
+      "homeAbbr": "ODU",
+      "awayAbbr": "USM",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "S.B. Ballard Stadium",
+      "espnId": "401871103",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-28/usm-odu",
+      "firstSeen": "2026-11-25T20:23:43+00:00",
+      "openingTotal": 50.5,
+      "readings": [
+        {
+          "at": "2026-11-25T20:23:43+00:00",
+          "windMph": 14,
+          "windDir": "W",
+          "total": 50.5,
           "book": "Draft Kings"
         }
       ],
@@ -8178,6 +8266,13 @@
         {
           "at": "2026-11-24T21:00:44+00:00",
           "windMph": 10,
+          "windDir": "W",
+          "total": 55.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-25T20:23:43+00:00",
+          "windMph": 5,
           "windDir": "W",
           "total": 55.5,
           "book": "Draft Kings"
@@ -8301,6 +8396,13 @@
           "windDir": null,
           "total": 47.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-25T20:23:43+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 47.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8331,6 +8433,13 @@
           "windDir": null,
           "total": 50.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-25T20:23:43+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 49.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8358,6 +8467,13 @@
         {
           "at": "2026-11-24T21:00:44+00:00",
           "windMph": 10,
+          "windDir": null,
+          "total": 41.5,
+          "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-25T20:23:43+00:00",
+          "windMph": 12,
           "windDir": null,
           "total": 41.5,
           "book": "Draft Kings"
@@ -8391,6 +8507,13 @@
           "windDir": null,
           "total": 46.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-25T20:23:43+00:00",
+          "windMph": 12,
+          "windDir": null,
+          "total": 44.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8421,6 +8544,13 @@
           "windDir": null,
           "total": 41.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-25T20:23:43+00:00",
+          "windMph": 14,
+          "windDir": null,
+          "total": 39.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8428,5 +8558,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-24T21:00:45+00:00"
+  "updatedAt": "2026-11-25T20:23:45+00:00"
 }
