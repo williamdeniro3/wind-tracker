@@ -7943,8 +7943,11 @@
           "book": "Draft Kings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 43.5,
+      "score": {
+        "home": 26,
+        "away": 13
+      },
       "bet": null
     },
     {
@@ -7971,6 +7974,13 @@
           "windDir": null,
           "total": 47.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 49.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -8008,6 +8018,43 @@
           "windDir": null,
           "total": 46.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 45.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401858536",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-27T17:00Z",
+      "homeTeam": "Iowa",
+      "awayTeam": "Nebraska",
+      "homeAbbr": "IOWA",
+      "awayAbbr": "NEB",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Kinnick Stadium",
+      "espnId": "401858536",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-27/neb-iowa",
+      "firstSeen": "2026-11-26T19:59:54+00:00",
+      "openingTotal": 38.5,
+      "readings": [
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 10,
+          "windDir": "NW",
+          "total": 40.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -8045,6 +8092,13 @@
           "windDir": null,
           "total": 36.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 17,
+          "windDir": null,
+          "total": 36.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -8082,6 +8136,13 @@
           "windDir": "WSW",
           "total": 66.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 5,
+          "windDir": "W",
+          "total": 66.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -8112,6 +8173,36 @@
           "windDir": "W",
           "total": 53.5,
           "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401864546",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-27T21:30Z",
+      "homeTeam": "New Mexico",
+      "awayTeam": "Air Force",
+      "homeAbbr": "UNM",
+      "awayAbbr": "AFA",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "University Stadium (NM)",
+      "espnId": "401864546",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-27/af-unm",
+      "firstSeen": "2026-11-26T19:59:54+00:00",
+      "openingTotal": 41.5,
+      "readings": [
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 42.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -8179,6 +8270,36 @@
           "windDir": "W",
           "total": 50.5,
           "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401871102",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-28T18:00Z",
+      "homeTeam": "UL Monroe",
+      "awayTeam": "Marshall",
+      "homeAbbr": "ULM",
+      "awayAbbr": "MRSH",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Malone Stadium",
+      "espnId": "401871102",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-28/mrsh-ulm",
+      "firstSeen": "2026-11-26T19:59:54+00:00",
+      "openingTotal": 49.5,
+      "readings": [
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 10,
+          "windDir": "SW",
+          "total": 51.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -8276,6 +8397,13 @@
           "windDir": "W",
           "total": 55.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 5,
+          "windDir": "W",
+          "total": 55.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -8306,6 +8434,43 @@
           "windDir": "SW",
           "total": 48.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 10,
+          "windDir": "WSW",
+          "total": 50.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401856765",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-29T00:00Z",
+      "homeTeam": "Vanderbilt",
+      "awayTeam": "Tennessee",
+      "homeAbbr": "VAN",
+      "awayAbbr": "TENN",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "FirstBank Stadium",
+      "espnId": "401856765",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-28/tenn-van",
+      "firstSeen": "2026-11-26T19:59:54+00:00",
+      "openingTotal": 57.5,
+      "readings": [
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 10,
+          "windDir": "S",
+          "total": 42.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -8366,6 +8531,13 @@
           "windDir": "ENE",
           "total": 39.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 14,
+          "windDir": "ENE",
+          "total": 39.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -8403,6 +8575,13 @@
           "windDir": null,
           "total": 47.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 47.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -8440,6 +8619,13 @@
           "windDir": null,
           "total": 49.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 49.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -8477,6 +8663,43 @@
           "windDir": null,
           "total": 41.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 41.5,
+          "book": "DraftKings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NFL-401873093",
+      "league": "NFL",
+      "season": 2026,
+      "week": 12,
+      "kickoff": "2026-11-29T21:05Z",
+      "homeTeam": "Los Angeles Chargers",
+      "awayTeam": "New England",
+      "homeAbbr": "LAC",
+      "awayAbbr": "NE",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "SoFi Stadium",
+      "espnId": "401873093",
+      "weatherUrl": "https://www.mysportsweather.com/nfl#match-ne-lac",
+      "firstSeen": "2026-11-26T19:59:54+00:00",
+      "openingTotal": 45.5,
+      "readings": [
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 35.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -8514,6 +8737,13 @@
           "windDir": null,
           "total": 44.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 14,
+          "windDir": null,
+          "total": 43.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -8551,6 +8781,13 @@
           "windDir": null,
           "total": 39.5,
           "book": "Draft Kings"
+        },
+        {
+          "at": "2026-11-26T19:59:54+00:00",
+          "windMph": 14,
+          "windDir": null,
+          "total": 40.5,
+          "book": "DraftKings"
         }
       ],
       "closingTotal": null,
@@ -8558,5 +8795,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-25T20:23:45+00:00"
+  "updatedAt": "2026-11-26T19:59:55+00:00"
 }
