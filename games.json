@@ -7983,8 +7983,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 49.5,
+      "score": {
+        "home": 38,
+        "away": 39
+      },
       "bet": null
     },
     {
@@ -8027,8 +8030,11 @@
           "book": "DraftKings"
         }
       ],
-      "closingTotal": null,
-      "score": null,
+      "closingTotal": 46.5,
+      "score": {
+        "home": 13,
+        "away": 10
+      },
       "bet": null
     },
     {
@@ -8099,6 +8105,43 @@
           "windDir": null,
           "total": 36.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-27T19:49:21+00:00",
+          "windMph": 17,
+          "windDir": null,
+          "total": 36.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
+      "id": "NCAAF-401869930",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-27T20:00Z",
+      "homeTeam": "South Alabama",
+      "awayTeam": "App State",
+      "homeAbbr": "USA",
+      "awayAbbr": "APP",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Hancock Whitney Stadium",
+      "espnId": "401869930",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-27/app-usa",
+      "firstSeen": "2026-11-27T19:49:21+00:00",
+      "openingTotal": 55.5,
+      "readings": [
+        {
+          "at": "2026-11-27T19:49:21+00:00",
+          "windMph": 10,
+          "windDir": "W",
+          "total": 56.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8143,6 +8186,13 @@
           "windDir": "W",
           "total": 66.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-27T19:49:21+00:00",
+          "windMph": 10,
+          "windDir": "WSW",
+          "total": 66.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8203,6 +8253,13 @@
           "windDir": "N",
           "total": 42.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-27T19:49:21+00:00",
+          "windMph": 10,
+          "windDir": "N",
+          "total": 42.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8411,6 +8468,36 @@
       "bet": null
     },
     {
+      "id": "NCAAF-401869947",
+      "league": "NCAAF",
+      "season": 2026,
+      "week": 13,
+      "kickoff": "2026-11-28T19:00Z",
+      "homeTeam": "James Madison",
+      "awayTeam": "Coastal Carolina",
+      "homeAbbr": "JMU",
+      "awayAbbr": "CCU",
+      "neutralSite": false,
+      "dome": false,
+      "venue": "Bridgeforth Stadium",
+      "espnId": "401869947",
+      "weatherUrl": "https://www.mysportsweather.com/ncaaf/2026-11-28/ccu-jmu",
+      "firstSeen": "2026-11-27T19:49:21+00:00",
+      "openingTotal": 55.5,
+      "readings": [
+        {
+          "at": "2026-11-27T19:49:21+00:00",
+          "windMph": 12,
+          "windDir": "W",
+          "total": 54.5,
+          "book": "Draft Kings"
+        }
+      ],
+      "closingTotal": null,
+      "score": null,
+      "bet": null
+    },
+    {
       "id": "NCAAF-401864550",
       "league": "NCAAF",
       "season": 2026,
@@ -8471,6 +8558,13 @@
           "windDir": "S",
           "total": 42.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-27T19:49:21+00:00",
+          "windMph": 5,
+          "windDir": "S",
+          "total": 43.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8538,6 +8632,13 @@
           "windDir": "ENE",
           "total": 39.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-27T19:49:21+00:00",
+          "windMph": 14,
+          "windDir": "ENE",
+          "total": 39.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8582,6 +8683,13 @@
           "windDir": null,
           "total": 47.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-27T19:49:21+00:00",
+          "windMph": 15,
+          "windDir": null,
+          "total": 47.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8626,6 +8734,13 @@
           "windDir": null,
           "total": 49.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-27T19:49:21+00:00",
+          "windMph": 13,
+          "windDir": null,
+          "total": 48.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8670,6 +8785,13 @@
           "windDir": null,
           "total": 41.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-27T19:49:21+00:00",
+          "windMph": 9,
+          "windDir": null,
+          "total": 41.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8700,6 +8822,13 @@
           "windDir": null,
           "total": 35.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-27T19:49:21+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 35.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8744,6 +8873,13 @@
           "windDir": null,
           "total": 43.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-27T19:49:21+00:00",
+          "windMph": 16,
+          "windDir": null,
+          "total": 43.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8788,6 +8924,13 @@
           "windDir": null,
           "total": 40.5,
           "book": "DraftKings"
+        },
+        {
+          "at": "2026-11-27T19:49:21+00:00",
+          "windMph": 10,
+          "windDir": null,
+          "total": 39.5,
+          "book": "Draft Kings"
         }
       ],
       "closingTotal": null,
@@ -8795,5 +8938,5 @@
       "bet": null
     }
   ],
-  "updatedAt": "2026-11-26T19:59:55+00:00"
+  "updatedAt": "2026-11-27T19:49:23+00:00"
 }
